@@ -52,9 +52,8 @@ Signal hat ebenfalls den Fokus auf Sicherheit und Datenschutz. Signal ist, im Ge
 
 ## SimpleX
 simplex.chat
-Wer es ganz privat mag, kann SimpleX verwenden. Kontakte können nur durch die Weitergabe eines temporären zufälligen digitalen Schlüssels – am einfachsten durch einen QR-Code – erstellt werden. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist, weil der Service ganz ohne Telefonnummer funktioniert. Im Gegensatz zu allen anderen ist SimpleX kein geschlossenes System, kein sogenanntes Datensilo. Für ein vollständiges Verständnis fehlt mir das Know-how. Aber hier ist ein Video, welches SimpleX erklärt.
-https://youtu.be/aKRfDch_WBQ
-Mir scheint dieses Konzept auf dem richtigen Weg und in meinem ganz engen Kreis nutze ich das. (((((((..)))))))
+Wer es ganz privat mag, kann SimpleX verwenden. Kontakte können nur durch die Weitergabe eines temporären zufälligen digitalen Schlüssels – am einfachsten durch einen QR-Code – erstellt werden. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist, weil der Service ganz ohne Telefonnummer funktioniert. Im Gegensatz zu allen anderen ist SimpleX kein geschlossenes System, kein sogenanntes Datensilo. Für ein vollständiges Verständnis fehlt mir das Know-how. Im Anhang ist ein Video, welches SimpleX erklärt. Mir scheint dieses Konzept auf dem richtigen Weg und in meinem ganz engen Kreis nutze ich das. 
+> erst noch testen
 
 ## Matrix
 matrix.org
@@ -184,15 +183,15 @@ Es gibt da eine 25 Jahre alte Mär, dass damals also Apple die Rechner G3-Prozes
 # Anhang
 
 ## Ein paar Links
-https://signal.org/de/download
-https://simplex.chat
-https://www.mozilla.org
-https://relay.firefox.com
-https://kagi.com
-https://duckduckgo.com
-https://joinmastodon.org/servers
-https://briefs.video/videos/whats-the-deal-with-large-language-models/
-
+- https://signal.org/de/download
+- https://simplex.chat
+- https://www.mozilla.org
+- https://relay.firefox.com
+- https://kagi.com
+- https://duckduckgo.com
+- https://joinmastodon.org/servers
+- https://briefs.video/videos/whats-the-deal-with-large-language-models/
+- https://youtu.be/aKRfDch_WBQ
 
 ## Ein paar Mastodonprofile
 - Adrienne Fichter: @adfichter@chaos.social
@@ -207,20 +206,20 @@ https://briefs.video/videos/whats-the-deal-with-large-language-models/
 
 ## Ein paar Berichte
 
-## Meredith Whittaker reaffirms that Signal would leave UK if forced by privacy bill
+### Meredith Whittaker reaffirms that Signal would leave UK if forced by privacy bill
 https://techcrunch.com/2023/09/21/meredith-whittaker-reaffirms-that-signal-would-leave-u-k-if-forced-by-privacy-bill/
 
-## WhatsApp: Wie sich Datenschutz/Privatsphäre verbessern lässt
+### WhatsApp: Wie sich Datenschutz/Privatsphäre verbessern lässt
 kuketz-blog.de
 https://www.kuketz-blog.de/whatsapp-wie-sich-datenschutz-privatsphaere-verbessern-laesst-teil1/
 
-## «Blick», TX Group und NZZ schickten Leserdaten nach Moskau
+### «Blick», TX Group und NZZ schickten Leserdaten nach Moskau
 republik.ch
 https://www.republik.ch/2023/11/02/blick-tx-group-und-nzz-schickten-leserdaten-nach-moskau
 
-## Hört auf, eure Daten zu verschenken!
+### Hört auf, eure Daten zu verschenken!
 Gert Scobel (3Sat)
 https://www.3sat.de/wissen/scobel/231026-youtube-wir-verschenken-unsere-daten-scobel-100.html
 
-##  Der Rechtslibertarismus des Elon Musk: Internetkrieger in erster Reihe 
+###  Der Rechtslibertarismus des Elon Musk: Internetkrieger in erster Reihe 
 https://taz.de/Der-Rechtslibertarismus-des-Elon-Musk/!5962309/
