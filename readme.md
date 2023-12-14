@@ -183,7 +183,7 @@ Ich empfehle, zu den beiden Produkten Videos anzuschauen. So wird es etwas fassb
 
 # Zum Schluss
 
-Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Sage unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer in unseren Hostentaschen rumtragen – und diese gelegentlich im Klo versenken –, die deutlich mächtiger und deutlich kleiner sind als PCs vor 25 Jahren. Trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
+Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Geschichte unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer, die deutlich mächtiger sind als PCs vor 25 Jahren und diese in unseren Hostentaschen rumtragen – und gelegentlich im Klo versenken. Trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
 
 Ich habe Verständnis dafür, dass es einen ein wenig gleichgültig ist, wie die Elektronik im eigenen Staubsauger funktioniert. Und ich habe Verständnis dafür, dass ein Computer-Betriebssystem und all die darauf gepackten Apps und Applikationen ein äusserst abstraktes und für «Quereinsteigende» ein schwer zugängliches Gebilde ist. 
 
@@ -223,6 +223,9 @@ Jürgen
 - Marc-Uwe Kling: @marcuwekling@cultur.social
 
 ## Ein paar Berichte
+
+### Warum du nichts mehr findest: Google Suche
+https://www.youtube.com/watch?v=a9eKOU9paoA
 
 ### Meredith Whittaker reaffirms that Signal would leave UK if forced by privacy bill
 https://techcrunch.com/2023/09/21/meredith-whittaker-reaffirms-that-signal-would-leave-u-k-if-forced-by-privacy-bill/
