@@ -174,9 +174,10 @@ Eigentlich wissen es alle: Passwörter dürfen nicht zu erraten sein. Passwörte
 
 So ein Programm bietet quasi ein verschlüsseltes Adressbuch, welches alle Zugangsdaten für alle Dienste enthält. Um diesen Manager temporär zu öffnen braucht man ein selbst erstelltes Masterpasswort und nach einer definierten Zeit schliesst sich das Programm wieder, so dass das Masterpasswort erneut eingegeben werden muss. Wenn man das Masterpasswort vergisst, hat man Probleme. Verlieren kann man es nicht, denn man schreibt es gefälligst nirgends auf. Aber wir können es unserer Liebe oder sonst wem vertrauenswürdigen anvertrauen – und es im notfall auch wieder ändern.
 
-Zum Passwortmanager gibts es immer eine Erweiterung für den Browser, welche hilft, die Login-Daten an der richtigen Stelle einzufüllen. Das passiert aufgrund der Adresse der geöffneten Website.
+Zum Passwortmanagern gibts es immer Erweiterung für alle Browser. Diese erleichtert es uns, die Login-Daten an der richtigen Stelle einzufüllen. Das passiert basierend auf der Adresse der geöffneten Website. Keine Magie.
 
 Es gibt einige am Markt, aber ich kenne nur zwei. 1Password und Bitwarden. 1Password hat eine sehr komfortable Oberfläche, ein paar nette extras, funktioniert zuverlässig und ist wohl deshalb sehr beliebt. Das Programm kostet rund 36 Franken pro Jahr. Bitwarden kommt nicht ganz so geschliffen daher, funktioniert aber ebenfalls sehr gut. Vorteil Bitwarden ist Open Source und in der Standardversion gratis.
+
 Wichtig: Beide verschlüsseln die Daten beim Speichern und laden sie **danach** auf ihre eigene Cloud. So können wir unsere Zugangsdaten auf mehreren Geräten gleichzeitig nutzen. Auch wichtig: Niemand knackt innerhalb weniger als 10 Jahren eine AES-256-Verschlüsselung. Auch nicht, jene welche den Passwort-Manager gebaut haben. Und bis dahin wird es wohl wieder neue Verschlüsselungs-Standards geben.
 
 Ich empfehle, zu den beiden Produkten Videos anzuschauen. So wird es etwas fassbarer, wie diese Dinger funktionieren.
