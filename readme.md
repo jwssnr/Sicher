@@ -183,11 +183,11 @@ Ich empfehle, zu den beiden Produkten Videos anzuschauen. So wird es etwas fassb
 
 # Zum Schluss
 
-Es gibt da eine etwa 25 Jahre alte Mär, dass damals als Apple Rechner mit G3-Prozessoren auf den Markt brachte, jene Produkte in China nicht verkauft werden durften, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Sage unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer in unseren Hostentaschen rumtragen – und diese gelegentlich im Klo versenken –, die deutlich mächtiger sind als PCs vor 25 Jahren. Trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
+Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Sage unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer in unseren Hostentaschen rumtragen – und diese gelegentlich im Klo versenken –, die deutlich mächtiger und deutlich kleiner sind als PCs vor 25 Jahren. Trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
 
 Ich habe Verständnis dafür, dass es einen ein wenig gleichgültig ist, wie die Elektronik im eigenen Staubsauger funktioniert. Und ich habe Verständnis dafür, dass ein Computer-Betriebssystem und all die darauf gepackten Apps und Applikationen ein äusserst abstraktes und für «Quereinsteigende» ein schwer zugängliches Gebilde ist. 
 
-Aber ich möchte alle motivieren, sich mit diesen Geräten so ernsthaft zu befassen, wie sie eben unsere Alltage eingedrungen sind.
+Aber ich möchte alle motivieren, sich mit diesen Geräten und vorallem mit dem Internet so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon.
 
 ☀︎
 Jürgen
