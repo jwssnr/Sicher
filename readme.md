@@ -46,18 +46,13 @@ Bei Telegram steht es leider um die Verwertung unserer Metadaten nicht besser un
 threema.ch
 Seit 2012 und somit nach WhatsApp (2009) am längsten am Markt ist Threema der Threema GmbH aus der Schweiz. Die Plattform hat den Fokus seit Beginn auf Sicherheit und Datenschutz und ist Open Source (siehe Seite XXX). Einziges Manko: Die Desktop-Version verlang bei jedem Aufstarten wieder einen Scan des QR-Codes mit dem App. Dass die App einen einmaligen einstelligen Frankenbetrag kostet, lass ich nicht als Nachteil gelten.
 
-## Signal
-signal.org
+## Signal.org
 Signal hat ebenfalls den Fokus auf Sicherheit und Datenschutz. Signal (2014) ist, im Gegensatz zu Threema, eine Stiftung mit Sitz in den USA und finanziert sich durch Spenden. Die Applikation ist ebenfalls Open Source läuft auf allen Geräten (iOS, Android, Mac, Windows, Linux) sehr solide und erfährt regelmässig Updates. Öffentliche Auftritte der Stiftungspräsidentin Meredith Whittaker findet ihr einige auf Youtube. 
 
-## SimpleX
-simplex.chat
+## SimpleX.chat
 Wer es ganz privat mag, kann SimpleX verwenden. Kontakte können nur durch die Weitergabe eines temporären, zufälligen digitalen Schlüssels – am einfachsten durch einen QR-Code – erstellt werden. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist, weil der Service ganz ohne Telefonnummer funktioniert. Im Gegensatz zu allen anderen ist SimpleX kein geschlossenes System, kein sogenanntes Datensilo. Für ein vollständiges Verständnis fehlt mir das Know-how. Im Anhang ist ein Video, welches SimpleX erklärt. Mir scheint dieses Konzept auf dem richtigen Weg und in meinem ganz engen Kreis nutze ich das. 
 
-> erst noch testen
-
-## Matrix
-matrix.org
+## Matrix.org
 Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten Activity-Pub-Protokoll läuft, ist die Schwelle etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider nicht empfehlen.
 
 ## SMS, MMS, RCS
@@ -88,7 +83,7 @@ Rein beruflich bin ich auf diverse Informationsquellen angewiesen und ich würde
 
 Ein paar Quellen, denen ich persönlich auf Mastodon folge und die nichts mit meinem Handwerk zu tun haben findet ihr im Anhang – so als Inspiration.
 
-## Wie unterscheidet sich Mastodon von Twitter/X und Facebook?
+## Was ist besser?
 Mastodon ist ein Netzwerk von sogenannten Instanzen. Diese Instanzen fühlen sich ein wenig an, wie Dörfer. Für die Landung in der Mastodon-Welt muss man sich zuerst ein Dorf aussuchen. Am idealsten eines, wo es gefällt, wo gleichgesinnte wohnen und wo einen die Regeln gefallen. Ein späterer Umzug in ein anderes Dorf samt Beiträgen ist aber machbar. 
 Es gibt vier Datenströme (Feeds), welche ich mir ansehen kann. 
 
@@ -103,7 +98,7 @@ Alle Beiträge aller Userì der eigenen Instanz
 
 Wenn man sich nicht an die Regeln im Dorf hält, kann man rausgeschmissen werden. Dafür kann man auch Userì und ganze Instanzen sperren, die einen persönlich nicht in den Kram passen.
 
-Technisch gesehen, sind es individuelle Server auf denen die Mastodon-Software läuft. Jede Person kann so einen Server aufsetzen und bildet somit automatisch eine Instanz im Mastodon-Netzwerk. Ich empfehle aber, eine Instanz auszuwählen, die nicht nur von einer einzelnen Person bei Vollmond gewartet wird sondern eher etwas grösseres. Auf joinmastodon.org/servers finden wir eine Liste aller Instanzen, filterbar nach Sprache und Interessen.
+Technisch gesehen, sind es individuelle Server auf denen die Mastodon-Software läuft. Jede Person kann so einen Server aufsetzen und bildet somit automatisch eine Instanz im Mastodon-Netzwerk. Ich empfehle aber, eine Instanz auszuwählen, die nicht nur von einer einzelnen Person bei Vollmond gewartet wird sondern eher etwas grösseres. Auf *joinmastodon.org/servers* finden wir eine Liste aller Instanzen, filterbar nach Sprache und Interessen.
 
 Ich persönlich «wohne» in typo.social. Meine Username lautet @jwssnr und meine vollständige «Anschrift» deshalb @jwssnr@typo.social.
 
@@ -186,7 +181,7 @@ Wichtig: Beide verschlüsseln die Daten beim Speichern und laden sie **danach** 
 
 Ich empfehle, zu den beiden Produkten Videos anzuschauen. So wird es etwas fassbarer, wie diese Dinger funktionieren.
 
-# Abschluss
+# Zum Schluss
 
 Es gibt da eine etwa 25 Jahre alte Mär, dass damals als Apple Rechner mit G3-Prozessoren auf den Markt brachte, jene Produkte in China nicht verkauft werden durften, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Sage unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer in unseren Hostentaschen rumtragen – und diese gelegentlich im Klo versenken –, die deutlich mächtiger sind als PCs vor 25 Jahren. Trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
 
