@@ -40,8 +40,7 @@ Das grosse «Gehts-noch?!» bei X, wie auch bei Facebook und Instagram, sind die
 Sucht man Alternativen fürs sogenannte Instant-Messaging, ist die Auswahl recht begrenzt – glücklicherweise.
 
 ## Telegram, nein
-Bei Telegram steht es leider um die Verwertung unserer Metadaten nicht besser und end-zu-end-verschlüsselte Nachrichten sind da in Gruppen nicht möglich. Zudem steht Telegram schon seit Jahren in der Kritik in Sachen Verschlüsselungsqualität und Datenschutz. Aktueller Standort der Entwicklungsabteilung: Dubai. Firmensitz: unbekannt. Besitzer: Pawel Durow, Multi-Milliardär
-https://de.wikipedia.org/wiki/Telegram#Sicherheit
+Bei Telegram steht es leider um die Verwertung unserer Metadaten nicht besser und end-zu-end-verschlüsselte Nachrichten sind da in Gruppen nicht möglich. Zudem steht Telegram schon seit Jahren in der Kritik in Sachen Verschlüsselungsqualität und Datenschutz. Aktueller Standort der Entwicklungsabteilung: Dubai. Firmensitz: unbekannt. Besitzer: Pawel Durow, Multi-Milliardär.
 
 ## Threema
 threema.ch
