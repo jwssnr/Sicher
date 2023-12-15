@@ -153,7 +153,7 @@ Zu diese beiden Browsern habe ich eher ein müdes Augenrollen übrig. Über Safa
 Edge (früher Internet Explorer) hat heute genau den gleichen Unterbau wie Chrome, liefert unsere Emissionen einfach an Microsoft. Für uns Webentwickler ist das eine Erleichterung, denn Internet Explorer war immer ein Sorgenkind.
 
 ## Orion und Librewolf
-Orion ist der Browser aus dem Haus der Suchmaschine Kagi und hat den gleichen Unterbau wie Safari, ist aber noch im Betastadium und etwas instabil. Librewolf hingegen ist eine Kopie von Firefox – im Open-Source-Chargon eine *Fork*. Beide Browser reklamieren für sich, so anständig zu sein, wie es geht. Ich werde ihn die nächsten Wochen testen.
+Orion ist der Browser aus dem Haus der Suchmaschine Kagi und hat den gleichen Unterbau wie Safari, ist aber noch im Betastadium und etwas instabil. Librewolf hingegen ist eine Kopie von Firefox – im Open-Source-Chargon eine *Fork*. Ich werde ihn die nächsten Wochen testen. Beide Browser reklamieren für sich, so anständig zu sein, wie es nur geht. 
 
 
 # ChatGPT und so
@@ -174,9 +174,12 @@ Ich denke, das hat vorallem mit dem Spirit der Community zu tun. Wir Entwickler 
 
 ## Nicht Open Source und trotzdem gratis bedeutet sehr sehr wahrscheinlich nicht gratis. Dies die Faustregel.
 
-# Spam
 
-Nun zu etwas ganz anderem. Aber es passt grad noch zum Thema Firefox bzw. Mozilla und zum Thema Datenschutz sowieso.
+# E-Mail
+
+((Text folgt))
+
+## Spam
 
 Der Dienst Relay von Firefox bietet virtuelle E-Mail-Adressen an. Das bedeutet, man kann eine beliebige E-Mail-Adresse generieren lassen, welche man für einen bestimmten Ort im Web nutzen kann. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. Die E-Mails werden dann vom Absender an eine Adresse wie 6z0hy69we@mozmail.com versendet. Diese laufen dann zuerst über Firefox Relay, werden dort von allen Trackern entledigt und an die richtige Adresse weitergeleitet. Das passiert in Echtzeit. Wenn wir auf einer dieser Adressen Spam reinkriegen, können wir sie einfach löschen oder ändern. Wichtig: Auf diese E-Mails kann nicht geantwortet werden. Dazu benötigen wir einen Premium-Account für 1 Franken pro Monat. Damit lassen sich dann nebst den zufällig generierten Adressen auch massgeschneiderte erstellen, auf deren E-Mails man jeweils innerhalb von 3 Monaten auch Antworten senden kann. Eine Massgeschneiderte Firefox-Relay-Adresse könnte in meinem Fall so aussehen: rhabarber@jwssnr.mozmail.com
 
