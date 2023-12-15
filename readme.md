@@ -1,5 +1,6 @@
 # Sicher?
 
+> ((irgend ein Untertitel fürs Cover muss noch her))
 
 ## Editorial
 
@@ -7,10 +8,11 @@ Als bei einer der jüngsten Infoveranstaltungen die Fachkräfte vorschlugen, man
 
 Nun weiss ich natürlich nicht, wie bei euch der Stand an Informationen, das Verständnis selbiger Informationen, die Qualität eurer Verdrängungsmechanismen und das Level an Ohnmacht zusammenspielen. Deshalb versuche ich, möglichst kurz und knapp aufzuwärmen, was eigentich Allgemeinwissen sein sollte. So wie ich mich kenne, wirds dann doch länger.
 
-Also. 
+Also …
 
 
-(Alle im Text erwähnten Adressen, sind im Anhang aufgeführt.)
+
+> Alle im Text erwähnten Dienste und Beiträge, sind im Anhang verlinkt.
 
 ***
 
@@ -119,9 +121,9 @@ Machen wir es, wie im Analogen: Unterstützen wir mehr die kleinen und lokalen. 
 
 
 ## Alternative Suchmaschinen
-Googles Suchmaschine nutze ich schon lange nicht mehr. Lange Zeit mindestens nicht direkt, weil ich über DuckDuckGo «googelte». Diese Suchmaschine anonymisiert die Suchanfragen, liefert aber trotzdem Google-Ergebnisse, was wiederum Google hilft. Man findet DuckDuckGo übrigens in jedem Browser in den Einstellungen zur Suchmaschine. Standardmässig ist Google eingestellt, weil Google den Browserherstellern etwas zahlt dafür.
+Googles Suchmaschine nutze ich schon lange nicht mehr. Lange Zeit mindestens nicht direkt, weil ich über DuckDuckGo «googelte». Diese Suchmaschine anonymisiert die Suchanfragen, liefert aber trotzdem Google-Ergebnisse, was wiederum Google hilft. Man findet DuckDuckGo übrigens in jedem Browser in den Einstellungen zur Suchmaschine. Standardmässig ist Google überall voreingestellt, weil Google die andern Browserherstellern dafür bezahlt.
 
-Seit einiger Zeit nun nutze ich kagi.com als Suchmaschine auf all meinen Geräten. Keine Werbung, keine Suchanfragen, welche mit meinem Konto verknüpft sind. Das Verrückte dabei: Ich zahle dafür 10 Stutz pro Monat.
+Seit einiger Zeit nun nutze ich kagi.com als Suchmaschine auf all meinen Geräten. Keine Werbung, keine Suchanfragen und andere Daten, welche mit meinem Konto verknüpft sind. Das Verrückte dabei: Ich zahle dafür 10 Stutz pro Monat.
 
 ## Weitere Google-Alternativen
 Da gibt es eigentlich für alles eine Lösung. Viele davon sind sogar schon länger da als Google und Google hats dann einfach nachgemacht. Sogar für YouTube gäbe es das mastodon-verwandte PeerTube, was ich sehr schätze, um sorglos Videos zu veröffentlichen, welche dann ohne Werbung und ohne Tracking in eine Website eingebunden werden können. Aber so fürs Stöbern und Recherchieren ist die Menge an Inhalten einfach zu dünn, denn auf PeerTube lässt sich mit Videos kein Geld verdienen.
@@ -129,20 +131,30 @@ Da gibt es eigentlich für alles eine Lösung. Viele davon sind sogar schon län
 # Browser
 
 ## Chrome
-Dass die Nutzung des Browsers Chrome für Google nochmals ein Plus bringt, dürfte offensichtlich sein. Als ich mich unlängst damit beschäftigte, was denn datenschutzrelevantes in all den von mir gebauten Websites steckt, entdeckte ich per Zufall, dass in einem bestimmten Prozentsatz aller Chrome-Installationen ein experimentelles Feature namens FLoC verbaut ist, von dem die Benutzerì nichts wissen. Google testet(e) damit eine neue Methode für zielgerichtete Werbung. Das macht man einfach nicht.
+Dass die Nutzung des Browsers Chrome für Google nochmals ein Plus bringt, dürfte offensichtlich sein. Auch Chrome kopiert deine Daten zu Google. Als ich mich unlängst damit beschäftigte, was denn datenschutzrelevantes in all den von mir gebauten Websites steckt, entdeckte ich per Zufall, dass in einem bestimmten Prozentsatz aller Chrome-Installationen ein experimentelles Feature namens FLoC verbaut ist, von dem die Benutzerì nichts wissen. Google testet(e) damit ungefragt eine neue Methode für zielgerichtete Werbung. Das macht man einfach nicht.
 
 ## Firefox
-Wenn es einen Browser gibt, den ich sehr schätze, so ist das Firefox. Er ist das absolut meistgenutzte Programm auf meinem Computer, beruflich und privat. Das solide Open-Source-Projekt hat von Haus aus den Fokus auf Datenschutz und ist schon viel länger am Markt als Chrome und Safari und seit Beginn aktiv an der Entwicklung von Webstandards beteiligt.
+Wenn es einen Browser gibt, den ich sehr schätze, so ist das Firefox. Er ist das absolut meistgenutzte Programm auf meinem Computer, beruflich und privat. Das solide Open-Source-Projekt hat von Haus aus einen Starken Fokus auf Privatsphäre, ist schon viel länger am Markt als Chrome und Safari und seit Beginn aktiv an der Entwicklung von Webstandards beteiligt.
 
-Früher gab es Stimmen, die sagten, «aber mein E-Banking funktioniert damit nicht» oder «aber mein Computer wird so langsam damit». Ich spüre davon diese Tage nichts mehr. Dafür haben wir heute das Problem, dass der globale Marktanteil von Firefox durchschnittlich über alle Geräteplattformem gerade mal bei 3 % liegt, in der Schweiz bei 7 %. Dies deshalb, weil Google einfach zu gross geworden ist.
+Früher gab es Stimmen, die sich über Probleme bei gewissen Websites beklagten. Meist lag das aber daran, dass jene Websites einfach nicht sauber gebaut war. Solche Inkompatibilitäten können heute noch vorkommen. In meinem Fall ist es aber gelegentlich Safari der rumzickt. 
 
-Ein Aufruf also: Nutzt Firefox.
-Es kann sein, dass er sonst ganz verdrängt wird. Immerhin sind 3 % von global 4 Milliarden Userì dann doch noch 120 Millionen Nasen.
+Im Vergleich mit anderen Browsern ist er langsamer. Stimmt. Aber entweder bin ich nach Jahren so sehr an die mangelnde Geschwindigkeit gewohnt, oder der Unterschied ist wirklich nur etwas für jene, die nichts anderes zu tun haben, als Browser zu benchmarken. Da mache ich mir keinen Kopf dazu.
+
+Ein wenig Sorgen bereitet mir aber, dass der Marktanteil von Firefox global und über alle Geräteplattformem durchschnittlich gerade mal bei 3 % liegt, in der Schweiz bei 7 %. Dies deshalb, weil Google einfach zu gross geworden ist. Ein Aufruf also: Nutzt Firefox. Es kann sein, dass er sonst ganz verdrängt wird. Immerhin sind 3 % von global 4 Milliarden Userì dann doch noch 120 Millionen Nasen. Die Krux: Wenn der Marktanteil eines Browser irgendwann zu gering wird, werden Websites nicht mehr darauf geprüft, wass dann eine Abwärtsspirale verursacht. Privatsphärenmässig könnte man es angelich noch besser machen.
+
+Kleiner Nachteil: Für mehr Privatsphäre als die Werkseinstellungen hergeben, muss man sich ein wenig durch die Einstellungen kämpfen. Mehr Privatsphäre bringt aber eben auch gewisse Einschränkungen mit sich. Vielleicht ist das also gar nicht so schlecht.
+
+
+## Brave
+Bei Brave bin ich gespalten. Er schützt vorkonfiguriert unsere Privatsphäre sogar ein bisschen besser als Firefox aber ich habe etwas Mühe mit Brave-Chef Brendan Eich. Dieser gehört zwar zu den Pionieren des WWW, weil er Javascript, eine Kerntechnologie, erfunden hat, aber – jetzt wird es wieder persönlich – er hat sich unlängst in seiner Heimat, den USA, dafür stark gemacht, dass Ehen nur zwischen Heteros gelten. Er gehörte zu den Pandemie-«Skeptikern» und ist für meinen Geschmack ein bisschen zu gottgläubig. Ebenfalls etwas sympathiearm sind die Krypto- und Punktesammelfunktionen die bei Brave mit an Bord sind.
 
 ## Safari und Edge
-
 Zu diese beiden Browsern habe ich eher ein müdes Augenrollen übrig. Über Safari ärgere ich mich oft, weil er gewisse meine Arbeit betreffenden Dinge einfach noch nicht kann und dafür andernorts die Technolgie vorwärts pusht, was zwar gut ist, aber für die Userì nichts bringt. Noch mehr ärgere ich mich über Apples Update-Politik. Wer auf einem ein paar Jahre alten Mac auf dem neusten Stand der Technologie surfen will oder muss, kommt nicht drum herum, sich einen anderen Browser zu installieren. Das ist total bescheuert. Apple sagt, Safari sei sicher. Aber es ist wie bei allen Apple-Produkten: Man muss es einfach glauben.
 Edge (früher Internet Explorer) hat heute genau den gleichen Unterbau wie Chrome, liefert unsere Emissionen einfach an Microsoft. Für uns Webentwickler ist das eine Erleichterung, denn Internet Explorer war immer ein Sorgenkind.
+
+## Orion und Librewolf
+Orion ist der Browser aus dem Haus der Suchmaschine Kagi und hat den gleichen Unterbau wie Safari, ist aber noch im Betastadium und etwas instabil. Librewolf hingegen ist eine Kopie von Firefox – im Open-Source-Chargon eine *Fork*. Beide Browser reklamieren für sich, so anständig zu sein, wie es geht. Ich werde ihn die nächsten Wochen testen.
+
 
 # ChatGPT und so
 
@@ -170,15 +182,13 @@ Der Dienst Relay von Firefox bietet virtuelle E-Mail-Adressen an. Das bedeutet, 
 
 
 # Passwörter
-Eigentlich wissen es alle: Passwörter dürfen nicht zu erraten sein. Passwörter dürfen nicht auf Zetteln am Computer kleben und sie sollen so abgelegt sein, dass sie wieder gefunden und identifiziert werden können. Das selbe gilt für Kreditkarten-Daten und ähnlich sensible Textchen. Die einfachste Methode, das einfach und zuverlässig zu handhaben, ist ein Programm, ein Passwort-Manager. 
+Eigentlich wissen es alle: Passwörter dürfen nicht zu erraten sein und sowieso nicht mehrfach verwendet werden. Passwörter dürfen nicht auf Zetteln am Computer kleben und sie sollen so abgelegt sein, dass sie wieder gefunden und identifiziert werden können. Das selbe gilt für Kreditkarten-Daten und ähnlich sensible Textchen. Die einfachste Methode, das komfortalbel und zuverlässig zu handhaben, ist ein Programm, ein Passwort-Manager, quasi ein verschlüsseltes Adressbuch, welches alle Zugangsdaten für alle Dienste enthält. Um Manager jeweils zu öffnen, braucht man ein Masterpasswort und nach einer definierten Zeit schliesst sich das Programm wieder, so dass das Masterpasswort erneut eingegeben werden muss. Wenn man das Masterpasswort vergisst, hat man Probleme. Verlieren kann man es nicht, denn man schreibt es gefälligst nirgends auf. Aber wir können es unserer Liebe oder sonst wem vertrauenswürdigen anvertrauen – und es im Notfall auch wieder ändern.
 
-So ein Programm bietet quasi ein verschlüsseltes Adressbuch, welches alle Zugangsdaten für alle Dienste enthält. Um diesen Manager temporär zu öffnen braucht man ein selbst erstelltes Masterpasswort und nach einer definierten Zeit schliesst sich das Programm wieder, so dass das Masterpasswort erneut eingegeben werden muss. Wenn man das Masterpasswort vergisst, hat man Probleme. Verlieren kann man es nicht, denn man schreibt es gefälligst nirgends auf. Aber wir können es unserer Liebe oder sonst wem vertrauenswürdigen anvertrauen – und es im notfall auch wieder ändern.
+Zu Passwortmanagern gibts es immer Erweiterung für alle Browser. Diese erleichtert es uns, die Login-Daten an der richtigen Stelle einzufüllen. Das passiert basierend auf der Adresse der geöffneten Website. Keine Magie.
 
-Zum Passwortmanagern gibts es immer Erweiterung für alle Browser. Diese erleichtert es uns, die Login-Daten an der richtigen Stelle einzufüllen. Das passiert basierend auf der Adresse der geöffneten Website. Keine Magie.
+Es gibt einige am Markt, aber ich kenne nur zwei. 1Password und Bitwarden. 1Password hat eine sehr komfortable Oberfläche, ein paar nette extras, funktioniert zuverlässig und ist wohl deshalb sehr beliebt. Das Programm kostet rund 36 Franken pro Jahr. Bitwarden kommt nicht ganz so geschliffen daher, funktioniert aber ebenfalls sehr gut. Bitwarden ist Open Source und in der Standardversion gratis.
 
-Es gibt einige am Markt, aber ich kenne nur zwei. 1Password und Bitwarden. 1Password hat eine sehr komfortable Oberfläche, ein paar nette extras, funktioniert zuverlässig und ist wohl deshalb sehr beliebt. Das Programm kostet rund 36 Franken pro Jahr. Bitwarden kommt nicht ganz so geschliffen daher, funktioniert aber ebenfalls sehr gut. Vorteil Bitwarden ist Open Source und in der Standardversion gratis.
-
-Wichtig: Beide verschlüsseln die Daten beim Speichern und laden sie **danach** auf ihre eigene Cloud. So können wir unsere Zugangsdaten auf mehreren Geräten gleichzeitig nutzen. Auch wichtig: Niemand knackt innerhalb weniger als 10 Jahren eine AES-256-Verschlüsselung. Auch nicht, jene welche den Passwort-Manager gebaut haben. Und bis dahin wird es wohl wieder neue Verschlüsselungs-Standards geben.
+Wichtig: Beide verschlüsseln die Daten beim Speichern und laden sie **danach** auf ihre eigene Cloud. So können wir unsere Zugangsdaten auf mehreren Geräten gleichzeitig nutzen und für Smartphones gibts passende Apps, so dass man seinen Tresor immer dabei hat. Auch wichtig: Niemand knackt innerhalb weniger als 10 Jahren eine AES-256-Verschlüsselung. Auch nicht jene welche, den Passwort-Manager gebaut haben. Und wenn doch, wird es genug früh noch bessere Verschlüsselungen geben.
 
 Ich empfehle, zu den beiden Produkten Videos anzuschauen. So wird es etwas fassbarer, wie diese Dinger funktionieren.
 
