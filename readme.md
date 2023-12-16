@@ -58,7 +58,7 @@ Wer es ganz privat mag, kann SimpleX verwenden. Kontakte können nur durch die W
 Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten Activity-Pub-Protokoll läuft, ist die Schwelle etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider nicht empfehlen.
 
 ## SMS, MMS, RCS
-Es gibt ja da noch den guten alten SMS, könnte man sagen. SMS/MMS wird im Moment nur aber noch genutzt, wenn von einem Android-Handy auf ein Apple-Handy und umgekehrt Nachrichten versendet werden, oder wenn gar kein Smart-Phone beteiligt ist. Gut nein, alt ja (30 Jahre). Apple-Userì kennen den «Effekt» mit den grünen und blauen Sprechblasen. Android-Nutzerì unter sich, können mit der hauseignen Nachrichten-App «Google Chat» ebenfalls Gruppenchats nutzen, Lesebestätigungen sehen und End-zu-End-Verschlüsselung standardmässig aktiv haben. Android nutzt dazu den offenen Standard RCS – Rich Communication Service. Apple-Userì unter sich, können mit iMessage die selben Dinge tun, allerdings mit einer apple-eignen Technologie. Nicht kompatibel. Apple will nun 2024 irgendwann iMessage um RCS erweitern. Das ist schön. Was das in Sachen Datenschutz bedeuten wird, ist noch unklar. Aber auch heute ist die Sitation nicht ganz durchsichtig. Was Apple mit Metadaten genau macht, wissen wir nicht. Sie leben ja nicht davon durch die Zurverfügungstellung von Gratisdiensten Profile für Werbung zu erstellen, aber einzulagern scheinen sie diese trotzdem. Auf Geheiss von lokalen Behörden müssen Sie diese herausgeben, habe ich gelesen. Was Google genau macht, weiss ich nicht. Gratis gibts nicht.
+Es gibt ja da noch den guten alten SMS, könnte man sagen. SMS/MMS wird im Moment nur aber noch genutzt, wenn von einem Android-Handy auf ein Apple-Handy und umgekehrt Nachrichten versendet werden, oder wenn gar kein Smart-Phone beteiligt ist. Gut nein, alt ja (30 Jahre). Apple-Userì kennen den «Effekt» mit den grünen und blauen Sprechblasen. Android-Nutzerì unter sich, können mit der hauseignen Nachrichten-App «Google Chat» ebenfalls Gruppenchats nutzen, Lesebestätigungen sehen und End-zu-End-Verschlüsselung standardmässig aktiv haben. Android nutzt dazu den offenen Standard RCS – Rich Communication Service. Apple-Userì unter sich, können mit iMessage die selben Dinge tun, allerdings mit einer apple-eignen Technologie. Nicht kompatibel. Apple will nun 2024 irgendwann iMessage um RCS erweitern. Das ist schön. Was das in Sachen Datenschutz bedeuten wird, ist noch unklar. Aber auch heute ist die Sitation nicht ganz durchsichtig. Was Apple mit Metadaten macht, wissen wir nicht. Sie leben ja nicht davon durch die Zurverfügungstellung von Gratisdiensten Profile für Werbung zu erstellen, aber einzulagern scheinen sie diese trotzdem. 
 
 ## Noch mehr Apps?!
 Ich will doch nicht noch eine App auf meinem Handy! Das ist kein rarer Ausruf in meinem Dunstkreis. Wenn es uns nicht egal ist, dass unsere digitale Kommunikation dazu beiträgt, dass ein paar Anstandlose mit zu viel Geld immer mehr Macht erlangen, dann kommen wir um ein paar Unbequemlichkeiten nicht herum. Löschen wir unseren WhatApp-Account, bleiben wir immer noch erreichbar, keine Angst. Ich habs ausprobiert. Und wir gewöhnen uns auch wahnsinnig schnell daran, welche Chatgruppe wo läuft und welche Kontakte wo zu finden sind. Es kann sogar helfen, wenn nicht alles im gleichen «Regal verstaut ist». 
@@ -115,10 +115,8 @@ Weil wir täglich – grösstenteils sogar unbewusst – mehr Google-Dienste als
 
 Ich weiss, viele Google-Dienste sind wirklich gut und sobald mehrere Leute einen davon gemeinsam nutzen, wird ein Umsteigen auf einen anderen Zug recht aufwändig. Persönlich tu ich mich mit der Vorstellung schwer, auf YouTube verzichten zu müssen. Ich bewege mich da täglich in meiner Blase und schätze genau diese Eigenschaft. Vieles von dem, was ich mir an technischem Know-how angeeigne, passiert über YouTube. Als Ausgleich versuche ich, meinen restlichen digitalen Alltag soweit es geht zu entgooglen und entäppeln.
 
-
 ## Es soll nicht sein, dass alles Digitale von den Launen einer Hand voll weltfremder Multimillionäre abhängig ist. 
 Machen wir es, wie im Analogen: Unterstützen wir mehr die kleinen und lokalen. Im Vergleich zum Analogen ist der Preis nur selten ein Argument. Meist wäre es nur ein Verlassen der eigenen Komfortzone. (Wenn wir grad schon dabei sind: LinkedIn gehört im Fall Microsoft.)
-
 
 ## Alternative Suchmaschinen
 Googles Suchmaschine nutze ich schon lange nicht mehr. Lange Zeit mindestens nicht direkt, weil ich über DuckDuckGo «googelte». Diese Suchmaschine anonymisiert die Suchanfragen, liefert aber trotzdem Google-Ergebnisse, was wiederum Google hilft. Man findet DuckDuckGo übrigens in jedem Browser in den Einstellungen zur Suchmaschine. Standardmässig ist Google überall voreingestellt, weil Google die andern Browserherstellern dafür bezahlt.
@@ -144,12 +142,12 @@ Ein wenig Sorgen bereitet mir aber, dass der Marktanteil von Firefox global und 
 
 Kleiner Nachteil: Für mehr Privatsphäre als die Werkseinstellungen hergeben, muss man sich ein wenig durch die Einstellungen kämpfen. Mehr Privatsphäre bringt aber eben auch gewisse Einschränkungen mit sich. Vielleicht ist das also gar nicht so schlecht.
 
-
 ## Brave
 Bei Brave bin ich gespalten. Er schützt vorkonfiguriert unsere Privatsphäre sogar ein bisschen besser als Firefox aber ich habe etwas Mühe mit Brave-Chef Brendan Eich. Dieser gehört zwar zu den Pionieren des WWW, weil er Javascript, eine Kerntechnologie, erfunden hat, aber – jetzt wird es wieder persönlich – er hat sich unlängst in seiner Heimat, den USA, dafür stark gemacht, dass Ehen nur zwischen Heteros gelten. Er gehörte zu den Pandemie-«Skeptikern» und ist für meinen Geschmack ein bisschen zu gottgläubig. Ebenfalls etwas sympathiearm sind die Krypto- und Punktesammelfunktionen die bei Brave mit an Bord sind.
 
 ## Safari und Edge
 Zu diese beiden Browsern habe ich eher ein müdes Augenrollen übrig. Über Safari ärgere ich mich oft, weil er gewisse meine Arbeit betreffenden Dinge einfach noch nicht kann und dafür andernorts die Technolgie vorwärts pusht, was zwar gut ist, aber für die Userì nichts bringt. Noch mehr ärgere ich mich über Apples Update-Politik. Wer auf einem ein paar Jahre alten Mac auf dem neusten Stand der Technologie surfen will oder muss, kommt nicht drum herum, sich einen anderen Browser zu installieren. Das ist total bescheuert. Apple sagt, Safari sei sicher. Aber es ist wie bei allen Apple-Produkten: Man muss es einfach glauben.
+
 Edge (früher Internet Explorer) hat heute genau den gleichen Unterbau wie Chrome, liefert unsere Emissionen einfach an Microsoft. Für uns Webentwickler ist das eine Erleichterung, denn Internet Explorer war immer ein Sorgenkind.
 
 ## Orion und Librewolf
@@ -174,17 +172,19 @@ Ich denke, das hat vorallem mit dem Spirit der Community zu tun. Wir Entwickler 
 
 ## Nicht Open Source und trotzdem gratis bedeutet sehr sehr wahrscheinlich nicht gratis. Dies die Faustregel.
 
-
 # E-Mail
 
-((Text folgt))
+Man mag denken, E-Mail, alte Schule, kann nicht verkehrt sein. Aber wie im Abschnitt zu Google schon erwähnt, werden überall wo etwas gratis ist, mindestens die Metadaten verwurstet. Gmail, Hotmail, Yahoo, GMX, Bluewin und was es sonst noch alles gibt. Das ist das eine. Vergleichen wir nun noch mit der analogen Post, so müssen wir für die Zeit zwischen dem gelben Briefkasten und dem Briefkasten am Haus einfach drauf vertrauen, dass niemand die Post liest und wieder sorgfältig verschliesst. Bei E-Mails würde man das nicht mal merken, wenn selbige sogar manipuliert worden wäre – technisch gesehen möglich. Es gibt Wege, den E-Mail-Verkehr sichrer zu machen, aber nur wenn jeweils Senderà und Empfängerà ihre Systeme entsprechend aufgerüstet. Das ist nur innerhalb von Kreisen möglich, wo sich alle darüber einig sind, wie z.B. unsere Ärztì mit ihren hin.ch-Adressen. 
+
+Man munkelt, dass E-Mail-Dienstleister heute wegen der schieren Menge an Spam mehr damit beschäftigt sind, Post nicht zuzustellen als umgekehrt. Das System ist kaputt. Wir werden wohl aber noch Jahre nicht darum herumkommen, E-Mails zu nutzen und so ist es mindestens sinnvoll, für unsere Kinder dann Konti an Orten zu erstellen, wo es möglichst sicher sind. Ein paar Ideen im Anhang.
+
 
 ## Spam
-
 Der Dienst Relay von Firefox bietet virtuelle E-Mail-Adressen an. Das bedeutet, man kann eine beliebige E-Mail-Adresse generieren lassen, welche man für einen bestimmten Ort im Web nutzen kann. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. Die E-Mails werden dann vom Absender an eine Adresse wie 6z0hy69we@mozmail.com versendet. Diese laufen dann zuerst über Firefox Relay, werden dort von allen Trackern entledigt und an die richtige Adresse weitergeleitet. Das passiert in Echtzeit. Wenn wir auf einer dieser Adressen Spam reinkriegen, können wir sie einfach löschen oder ändern. Wichtig: Auf diese E-Mails kann nicht geantwortet werden. Dazu benötigen wir einen Premium-Account für 1 Franken pro Monat. Damit lassen sich dann nebst den zufällig generierten Adressen auch massgeschneiderte erstellen, auf deren E-Mails man jeweils innerhalb von 3 Monaten auch Antworten senden kann. Eine Massgeschneiderte Firefox-Relay-Adresse könnte in meinem Fall so aussehen: rhabarber@jwssnr.mozmail.com
 
 
 # Passwörter
+
 Eigentlich wissen es alle: Passwörter dürfen nicht zu erraten sein und sowieso nicht mehrfach verwendet werden. Passwörter dürfen nicht auf Zetteln am Computer kleben und sie sollen so abgelegt sein, dass sie wieder gefunden und identifiziert werden können. Das selbe gilt für Kreditkarten-Daten und ähnlich sensible Textchen. Die einfachste Methode, das komfortalbel und zuverlässig zu handhaben, ist ein Programm, ein Passwort-Manager, quasi ein verschlüsseltes Adressbuch, welches alle Zugangsdaten für alle Dienste enthält. Um Manager jeweils zu öffnen, braucht man ein Masterpasswort und nach einer definierten Zeit schliesst sich das Programm wieder, so dass das Masterpasswort erneut eingegeben werden muss. Wenn man das Masterpasswort vergisst, hat man Probleme. Verlieren kann man es nicht, denn man schreibt es gefälligst nirgends auf. Aber wir können es unserer Liebe oder sonst wem vertrauenswürdigen anvertrauen – und es im Notfall auch wieder ändern.
 
 Zu Passwortmanagern gibts es immer Erweiterung für alle Browser. Diese erleichtert es uns, die Login-Daten an der richtigen Stelle einzufüllen. Das passiert basierend auf der Adresse der geöffneten Website. Keine Magie.
@@ -208,6 +208,11 @@ Jürgen
 
 
 ***
+
+(((Das hier noch unterkriegen ↓)))
+Jeder Dienstleister in den USA kann durch den Patriot Act gewungen werden, alles herzuzeigen, was er gesammelt hat.  
+
+
 
 # Anhang
 → [sicher.wssnr.ch](https://sicher.wssnr.ch/)
