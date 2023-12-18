@@ -58,10 +58,12 @@ Wer es ganz privat mag, kann SimpleX verwenden. Kontakte können nur durch die W
 Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten Activity-Pub-Protokoll läuft, ist die Schwelle etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider nicht empfehlen.
 
 ## SMS, MMS, RCS
-Es gibt ja da noch den guten alten SMS, könnte man sagen. SMS/MMS wird im Moment nur aber noch genutzt, wenn von einem Android-Handy auf ein Apple-Handy und umgekehrt Nachrichten versendet werden, oder wenn gar kein Smart-Phone beteiligt ist. Gut nein, alt ja (30 Jahre). Apple-Userì kennen den «Effekt» mit den grünen und blauen Sprechblasen. Android-Nutzerì unter sich, können mit der hauseignen Nachrichten-App «Google Chat» ebenfalls Gruppenchats nutzen, Lesebestätigungen sehen und End-zu-End-Verschlüsselung standardmässig aktiv haben. Android nutzt dazu den offenen Standard RCS – Rich Communication Service. Apple-Userì unter sich, können mit iMessage die selben Dinge tun, allerdings mit einer apple-eignen Technologie. Nicht kompatibel. Apple will nun 2024 irgendwann iMessage um RCS erweitern. Das ist schön. Was das in Sachen Datenschutz bedeuten wird, ist noch unklar. Aber auch heute ist die Sitation nicht ganz durchsichtig. Was Apple mit Metadaten macht, wissen wir nicht. Sie leben ja nicht davon durch die Zurverfügungstellung von Gratisdiensten Profile für Werbung zu erstellen, aber einzulagern scheinen sie diese trotzdem. 
+Es gibt ja da noch den guten alten SMS, könnte man sagen. SMS/MMS wird im Moment nur aber noch genutzt, wenn von einem Android-Handy auf ein Apple-Handy und umgekehrt Nachrichten versendet werden, oder wenn gar kein Smart-Phone beteiligt ist. Gut nein, alt ja (30 Jahre). Apple-Userì kennen den «Effekt» mit den grünen und blauen Sprechblasen. Android-Nutzerì unter sich, können mit der hauseignen Nachrichten-App «Google Chat» ebenfalls Gruppenchats nutzen, Lesebestätigungen sehen und End-zu-End-Verschlüsselung standardmässig aktiv haben. Android nutzt dazu den offenen Standard RCS – Rich Communication Service. Apple-Userì unter sich, können mit iMessage die selben Dinge tun, allerdings mit einer apple-eignen Technologie. Nicht kompatibel. Apple will nun 2024 irgendwann iMessage um RCS erweitern. Das ist schön. Was das in Sachen Datenschutz bedeuten wird, ist noch unklar. Aber auch heute ist die Situation nicht ganz durchsichtig. Was Apple mit Metadaten macht, wissen wir nicht. Sie leben ja nicht davon durch die Zurverfügungstellung von Gratisdiensten Profile für Werbung zu erstellen, aber einzulagern scheinen sie diese trotzdem. 
+
+Nicht vergessen: In den USA gibts dann noch den Patriot Act aufgrund dessen ein Dienstleister gezwungen werden kann, alles herzuzeigen was er gesammelt hat.
 
 ## Noch mehr Apps?!
-Ich will doch nicht noch eine App auf meinem Handy! Das ist kein rarer Ausruf in meinem Dunstkreis. Wenn es uns nicht egal ist, dass unsere digitale Kommunikation dazu beiträgt, dass ein paar Anstandlose mit zu viel Geld immer mehr Macht erlangen, dann kommen wir um ein paar Unbequemlichkeiten nicht herum. Löschen wir unseren WhatApp-Account, bleiben wir immer noch erreichbar, keine Angst. Ich habs ausprobiert. Und wir gewöhnen uns auch wahnsinnig schnell daran, welche Chatgruppe wo läuft und welche Kontakte wo zu finden sind. Es kann sogar helfen, wenn nicht alles im gleichen «Regal verstaut ist». 
+Ich will doch nicht noch eine App auf meinem Handy! Das ist kein rarer Ausruf in meinem Dunstkreis. Wenn es uns nicht egal ist, dass unsere digitale Kommunikation dazu beiträgt, dass ein paar Anstandslose mit zu viel Geld immer mehr Macht erlangen, dann kommen wir um ein paar Unbequemlichkeiten nicht herum. Löschen wir unseren WhatApp-Account, bleiben wir immer noch erreichbar, keine Angst. Ich habs ausprobiert. Und wir gewöhnen uns auch wahnsinnig schnell daran, welche Chatgruppe wo läuft und welche Kontakte wo zu finden sind. Es kann sogar helfen, wenn nicht alles im gleichen «Regal verstaut ist». 
 
 Ein gar schlechtes Zeichen ist es, wenn es mittlerweilen Mut braucht, diesen Schritt zu tun. Doch je mehr Leute es wagen, desto einfacher wird es.
 
@@ -151,7 +153,7 @@ Zu diese beiden Browsern habe ich eher ein müdes Augenrollen übrig. Über Safa
 Edge (früher Internet Explorer) hat heute genau den gleichen Unterbau wie Chrome, liefert unsere Emissionen einfach an Microsoft. Für uns Webentwickler ist das eine Erleichterung, denn Internet Explorer war immer ein Sorgenkind.
 
 ## Orion und Librewolf
-Orion ist der Browser aus dem Haus der Suchmaschine Kagi und hat den gleichen Unterbau wie Safari, ist aber noch im Betastadium und etwas instabil. Librewolf hingegen ist eine Kopie von Firefox – im Open-Source-Chargon eine *Fork*. Ich werde ihn die nächsten Wochen testen. Beide Browser reklamieren für sich, so anständig zu sein, wie es nur geht. 
+Orion ist der Browser aus dem Haus der Suchmaschine Kagi und hat den gleichen Unterbau wie Safari, ist aber noch im Betastadium und etwas instabil. Librewolf hingegen ist eine Kopie von Firefox – im Open-Source-Chargon eine *Fork*. Beide Browser reklamieren für sich, so anständig zu sein, wie es nur geht. 
 
 
 # ChatGPT und so
@@ -185,7 +187,6 @@ Oft spielen bei der Auswahl eines solchen Services auch die Themen Kontakte und 
 ## Spam
 Der Dienst Relay von Firefox bietet virtuelle E-Mail-Adressen an. Das bedeutet, man kann eine beliebige E-Mail-Adresse generieren lassen, welche man für einen bestimmten Ort im Web nutzen kann. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. Die E-Mails werden dann vom Absender an eine Adresse wie 6z0hy69we@mozmail.com versendet. Diese laufen dann zuerst über Firefox Relay, werden dort von allen Trackern entledigt und an die richtige Adresse weitergeleitet. Das passiert in Echtzeit. Wenn wir auf einer dieser Adressen Spam reinkriegen, können wir sie einfach löschen oder ändern. Wichtig: Auf diese E-Mails kann nicht geantwortet werden. Dazu benötigen wir einen Premium-Account für 1 Franken pro Monat. Damit lassen sich dann nebst den zufällig generierten Adressen auch massgeschneiderte erstellen, auf deren E-Mails man jeweils innerhalb von 3 Monaten auch Antworten senden kann. Eine Massgeschneiderte Firefox-Relay-Adresse könnte in meinem Fall so aussehen: rhabarber@jwssnr.mozmail.com
 
-
 # Passwörter
 
 Eigentlich wissen es alle: Passwörter dürfen nicht zu erraten sein und sowieso nicht mehrfach verwendet werden. Passwörter dürfen nicht auf Zetteln am Computer kleben und sie sollen so abgelegt sein, dass sie wieder gefunden und identifiziert werden können. Das selbe gilt für Kreditkarten-Daten und ähnlich sensible Textchen. Die einfachste Methode, das komfortalbel und zuverlässig zu handhaben, ist ein Programm, ein Passwort-Manager, quasi ein verschlüsseltes Adressbuch, welches alle Zugangsdaten für alle Dienste enthält. Um Manager jeweils zu öffnen, braucht man ein Masterpasswort und nach einer definierten Zeit schliesst sich das Programm wieder, so dass das Masterpasswort erneut eingegeben werden muss. Wenn man das Masterpasswort vergisst, hat man Probleme. Verlieren kann man es nicht, denn man schreibt es gefälligst nirgends auf. Aber wir können es unserer Liebe oder sonst wem vertrauenswürdigen anvertrauen – und es im Notfall auch wieder ändern. Zückerchen: Man muss sich auch keine Passwörter ausdenken. Das kann ein Zufallsgenerator für einen erledigen.
@@ -204,18 +205,12 @@ Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit 
 
 Ich habe Verständnis dafür, dass es einen ein wenig gleichgültig ist, wie die Elektronik im eigenen Staubsauger funktioniert. Und ich habe Verständnis dafür, dass ein Computer-Betriebssystem und all die darauf gepackten Apps und Applikationen und dann noch das ganze Internet äusserst abstrakte und für «Quereinsteigende» schwer zugängliche Gebilde sind. 
 
-Aber ich möchte alle motivieren, sich mit all dem so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon. Und fertig wird man auch nicht. Das wurde mir in den Stunden, sie ich brauchte, all mein vermeintliches Wissen zu formulieren und zu überprüfen. Ich wurde ich nicht fertig …
+Aber ich möchte alle motivieren, sich mit all dem so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon. Und fertig wird man auch nicht. Das wurde mir in den Stunden, welche ich brauchte, all mein vermeintliches Wissen zu formulieren und zu überprüfen wieder bewusst. Ich wurde ich nicht fertig …
 
 ☀︎
 Jürgen
 
-
-***
-
-(((Das hier noch unterkriegen ↓)))
-Jeder Dienstleister in den USA kann durch den Patriot Act gewungen werden, alles herzuzeigen, was er gesammelt hat.  
-
-
+----
 
 # Anhang
 Dem Komfort zuliebe ist der ganze Anhang, welche ausschliesslich aus Links besteht, auf eine Website ausgelager – cookie- und trackerfrei natürlich.
