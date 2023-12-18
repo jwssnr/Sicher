@@ -2,7 +2,7 @@
 
 > ((irgend ein Untertitel fürs Cover muss noch her))
 
-## Editorial
+## Vorwort
 
 Als bei einer der jüngsten Infoveranstaltungen die Fachkräfte vorschlugen, man könne zu einem hier nicht weiter relevanten Zweck, eine WhatsApp-Gruppe eröffnen, grummelte ich mich leise vor mich hin. 
 
@@ -33,7 +33,7 @@ Wenn man sich vorstellt, dass diese Profile in die falschen Hände geraten, ist 
 ## Zwei: Gratis
 Meta betreibt mit den Profilen Handel. Massgeschneiderte Werbung. Nicht nur auf ihren Plattformen sondern auch auf gemieteten Werbeflächen im ganzen Internet. Meta erntet also als unsere persönlichen «Emissionen» und macht Geld daraus und verteilt dieses auch eher nicht unter den Armen. Praktisch für Meta: Unsere Emissionen gehören offiziell ihnen.
 
-Was bei Twitter – heute X – zur Zeit los ist, versteh ich selbst nicht ganz. Ein ziemliches Kuddelmuddel und mir scheint, als würde Musk seine frisch erworbene Plattform bald in den Sand setzen oder durch seine Äusserungen demografisch so dezimieren, dass da nur noch Publikum nach seinem Gusto ist. Wie es bei X genau aussieht mit dem Daten sammeln, weiss ich nicht. Die Nutzung von X ist aber sicher genau so wenig «gratis».
+Was bei Twitter – heute X – zur Zeit los ist, versteh ich selbst nicht ganz. Ein ziemliches Kuddelmuddel und mir scheint, als würde Musk seine frisch erworbene Plattform bald in den Sand setzen oder durch sein Verhalten demografisch so dezimieren, dass da nur noch Publikum nach seinem Gusto ist. Wie es bei X genau aussieht mit dem Daten sammeln, weiss ich nicht. Die Nutzung von X ist aber sicher genau so wenig «gratis».
 
 ## Drei: Manipulation
 Das grosse «Gehts-noch?!» bei X, wie auch bei Facebook und Instagram, sind die manipulierten Datenflüsse. Nicht ihr bestimmt, was wichtig ist für euch, sondern Algorithmen. Ihr folgt zwar ausgewählten Kanälen, aber  deren Beiträge kommen eher «kuratiert» bis zu euch durch. Dazwischen passende Werbung. Etwas polemisch: Ihr kriegt also das zu lesen, was Musk und Mark wollen. Das ist manipulativ.
@@ -174,9 +174,13 @@ Ich denke, das hat vorallem mit dem Spirit der Community zu tun. Wir Entwickler 
 
 # E-Mail
 
-Man mag denken, E-Mail, alte Schule, kann nicht verkehrt sein. Aber wie im Abschnitt zu Google schon erwähnt, werden überall wo etwas gratis ist, mindestens die Metadaten verwurstet. Gmail, Hotmail, Yahoo, GMX, Bluewin und was es sonst noch alles gibt. Das ist das eine. Vergleichen wir nun noch mit der analogen Post, so müssen wir für die Zeit zwischen dem gelben Briefkasten und dem Briefkasten am Haus einfach drauf vertrauen, dass niemand die Post liest und wieder sorgfältig verschliesst. Bei E-Mails würde man das nicht mal merken, wenn selbige sogar manipuliert worden wäre – technisch gesehen möglich. Es gibt Wege, den E-Mail-Verkehr sichrer zu machen, aber nur wenn jeweils Senderà und Empfängerà ihre Systeme entsprechend aufgerüstet. Das ist nur innerhalb von Kreisen möglich, wo sich alle darüber einig sind, wie z.B. unsere Ärztì mit ihren hin.ch-Adressen. 
+Man mag denken, E-Mail, alte Schule, kann nicht verkehrt sein. Aber wie im Abschnitt zu Google schon erwähnt, werden überall wo etwas gratis ist, mindestens die Metadaten verwurstet. Gmail, Hotmail, Yahoo, GMX, Bluewin und was es sonst noch alles gibt. Das ist das eine. Vergleichen wir nun noch mit der analogen Post, so müssen wir für die Zeit zwischen dem gelben Briefkasten und dem Briefkasten am Haus einfach drauf vertrauen, dass niemand die Post liest und wieder sorgfältig verschliesst. Bei E-Mails würde man das nicht mal merken, wenn selbige sogar manipuliert worden wäre – technisch gesehen möglich. Verschärft wird die Situation noch dadurch, dass die meisten von uns einen Dienst nutzen, bei dem die E-Mails auf auf dem Server liegen, damit wir von mehrere Geräten darauf Zugriff haben. Kombiniert mit der Angewohntheit, «nie» etwas zu löschen, liegt quasi die Kommunkation der letzten Jahre schön ausgebreitet zur «Einsicht».
 
-Man munkelt, dass E-Mail-Dienstleister heute wegen der schieren Menge an Spam mehr damit beschäftigt sind, Post nicht zuzustellen als umgekehrt. Das System ist kaputt. Wir werden wohl aber noch Jahre nicht darum herumkommen, E-Mails zu nutzen und so ist es mindestens sinnvoll, für unsere Kinder dann Konti an Orten zu erstellen, wo es möglichst sicher sind. Ein paar Ideen im Anhang.
+Es gibt Wege, den E-Mail-Verkehr sichrer zu machen, aber nur wenn jeweils Senderà und Empfängerà ihre Systeme entsprechend aufgerüstet. Das ist nur innerhalb von Kreisen möglich, wo sich alle darüber einig sind, wie z.B. unsere Ärztì mit ihren hin.ch-Adressen. 
+
+Man munkelt, dass E-Mail-Dienstleister heute wegen der schieren Menge an Spam mehr damit beschäftigt sind, Post nicht zuzustellen als umgekehrt. Das System ist kaputt. Wir werden wohl aber noch Jahre nicht darum herumkommen, E-Mails zu nutzen und so ist es sinnvoll mindestens, für unsere Kinder dann Konti an Orten zu erstellen, wo sie E-Mails möglichst sicher sind. Dort gibt es End-zu-Endverschlüsselung der Postfächer, den PGP-Standard für den Mailversand an Leute, die einen ähnlich anständigen Anbieter nutzen und noch anderen Extras, wie das Schützen einens Mails per Passwort, welches man dann gern auf anderem Weg zustellt.
+
+Oft spielen bei der Auswahl eines solchen Services auch die Themen Kontakte und Kalender und auch deren Synchronisation mit anderen Geräten oder Familienmitgliedern eine Rolle. So kommt man nicht umhin, etwas Zeit und Laune zu verheizen, bis man das gefunden hat, was einen taugt. Ein paar Ideen im Anhang. Ich tendiere zu Proton als Empfehlung für den zugänglichsten und ausbaufähigsten Dienst.
 
 ## Spam
 Der Dienst Relay von Firefox bietet virtuelle E-Mail-Adressen an. Das bedeutet, man kann eine beliebige E-Mail-Adresse generieren lassen, welche man für einen bestimmten Ort im Web nutzen kann. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. Die E-Mails werden dann vom Absender an eine Adresse wie 6z0hy69we@mozmail.com versendet. Diese laufen dann zuerst über Firefox Relay, werden dort von allen Trackern entledigt und an die richtige Adresse weitergeleitet. Das passiert in Echtzeit. Wenn wir auf einer dieser Adressen Spam reinkriegen, können wir sie einfach löschen oder ändern. Wichtig: Auf diese E-Mails kann nicht geantwortet werden. Dazu benötigen wir einen Premium-Account für 1 Franken pro Monat. Damit lassen sich dann nebst den zufällig generierten Adressen auch massgeschneiderte erstellen, auf deren E-Mails man jeweils innerhalb von 3 Monaten auch Antworten senden kann. Eine Massgeschneiderte Firefox-Relay-Adresse könnte in meinem Fall so aussehen: rhabarber@jwssnr.mozmail.com
@@ -196,11 +200,11 @@ Ich empfehle, zu den beiden Produkten Videos anzuschauen. So wird es etwas fassb
 
 # Zum Schluss
 
-Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Geschichte unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer, die deutlich mächtiger sind als PCs vor 25 Jahren und diese in unseren Hostentaschen rumtragen – und gelegentlich im Klo versenken. Trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
+Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Geschichte unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer, die deutlich mächtiger sind als PCs vor 25 Jahren in unseren Hostentaschen rumtragen – und gelegentlich im Klo versenken. Und trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
 
-Ich habe Verständnis dafür, dass es einen ein wenig gleichgültig ist, wie die Elektronik im eigenen Staubsauger funktioniert. Und ich habe Verständnis dafür, dass ein Computer-Betriebssystem und all die darauf gepackten Apps und Applikationen ein äusserst abstraktes und für «Quereinsteigende» ein schwer zugängliches Gebilde ist. 
+Ich habe Verständnis dafür, dass es einen ein wenig gleichgültig ist, wie die Elektronik im eigenen Staubsauger funktioniert. Und ich habe Verständnis dafür, dass ein Computer-Betriebssystem und all die darauf gepackten Apps und Applikationen und dann noch das ganze Internet äusserst abstrakte und für «Quereinsteigende» schwer zugängliche Gebilde sind. 
 
-Aber ich möchte alle motivieren, sich mit diesen Geräten und vorallem mit dem Internet so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon.
+Aber ich möchte alle motivieren, sich mit all dem so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon. Und fertig wird man auch nicht. Das wurde mir in den Stunden, sie ich brauchte, all mein vermeintliches Wissen zu formulieren und zu überprüfen. Ich wurde ich nicht fertig …
 
 ☀︎
 Jürgen
@@ -214,4 +218,5 @@ Jeder Dienstleister in den USA kann durch den Patriot Act gewungen werden, alles
 
 
 # Anhang
+Dem Komfort zuliebe ist der ganze Anhang, welche ausschliesslich aus Links besteht, auf eine Website ausgelager – cookie- und trackerfrei natürlich.
 → [sicher.wssnr.ch](https://sicher.wssnr.ch/)
