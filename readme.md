@@ -145,7 +145,7 @@ Im Vergleich mit anderen Browsern ist er langsamer. Stimmt. Aber entweder bin ic
 
 Ein wenig Sorgen bereitet mir aber, dass der Marktanteil von Firefox global und über alle Geräteplattformem durchschnittlich gerade mal bei 3 % liegt, in der Schweiz bei 7 %. Dies deshalb, weil Google einfach zu gross geworden ist. Ein Aufruf also: Nutzt Firefox. Es kann sein, dass er sonst ganz verdrängt wird. Immerhin sind 3 % von global 4 Milliarden Userì dann doch noch 120 Millionen Nasen. Die Krux: Wenn der Marktanteil eines Browser irgendwann zu gering wird, werden Websites nicht mehr darauf geprüft, wass dann eine Abwärtsspirale verursacht. Privatsphärenmässig könnte man es angelich noch besser machen.
 
-Kleiner Nachteil: Für mehr Privatsphäre als die Werkseinstellungen hergeben, muss man sich ein wenig durch die Einstellungen kämpfen. Mehr Privatsphäre bringt aber eben auch gewisse Einschränkungen mit sich. Vielleicht ist das also gar nicht so schlecht.
+Kleiner Nachteil: Für mehr Privatsphäre als die Werkseinstellungen hergeben, muss man sich ein wenig durch die Einstellungen kämpfen. Mehr Privatsphäre bringt aber eben auch gewisse Einschränkungen mit sich. Vielleicht sind die Grundeinstellungen also gar nicht so schlecht.
 
 ## Brave
 Bei Brave bin ich gespalten. Er schützt vorkonfiguriert unsere Privatsphäre sogar ein bisschen besser als Firefox aber ich habe etwas Mühe mit Brave-Chef Brendan Eich. Dieser gehört zwar zu den Pionieren des WWW, weil er Javascript, eine Kerntechnologie, erfunden hat, aber – jetzt wird es wieder persönlich – er hat sich unlängst in seiner Heimat, den USA, dafür stark gemacht, dass Ehen nur zwischen Heteros gelten. Er gehörte zu den Pandemie-«Skeptikern» und ist für meinen Geschmack ein bisschen zu gottgläubig. Ebenfalls etwas sympathiearm sind die Krypto- und Punktesammelfunktionen die bei Brave mit an Bord sind.
@@ -156,7 +156,7 @@ Zu diese beiden Browsern habe ich eher ein müdes Augenrollen übrig. Über Safa
 Edge (früher Internet Explorer) hat heute genau den gleichen Unterbau wie Chrome, liefert unsere Emissionen einfach an Microsoft. Für uns Webentwickler ist das eine Erleichterung, denn Internet Explorer war immer ein Sorgenkind.
 
 ## Orion und Librewolf
-Orion ist der Browser aus dem Haus der Suchmaschine Kagi und hat den gleichen Unterbau wie Safari, ist aber noch im Betastadium und etwas instabil. Librewolf hingegen ist eine Kopie von Firefox – im Open-Source-Chargon eine *Fork*. Beide Browser reklamieren für sich, so anständig zu sein, wie es nur geht. 
+Orion ist der Browser aus dem Haus der Suchmaschine Kagi und hat den gleichen Unterbau wie Safari, ist aber noch im Betastadium und etwas instabil. Librewolf hingegen ist eine Kopie von Firefox – im Open-Source-Chargon eine *Fork*. Beide Browser reklamieren für sich, so anständig zu sein, wie es nur geht. Wie oft bei so kleinen Fischen, muss man auch bei diesen beiden hier ab und an mit Problemchen Rechnen. Geduld.
 
 
 # ChatGPT und so
