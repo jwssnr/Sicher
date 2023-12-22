@@ -1,9 +1,9 @@
 > Text in Arbeit. Bemerkungen erwünscht.
 
-# Sicher?
-
-
-
+# Titelentwürfe
+- Damit das unklar ist!
+- Private Schrift zum Thema Sphäre.
+- Privatsphäre und andere Bubbles
 
 ## Vorwort
 
@@ -55,7 +55,7 @@ Seit 2012 und somit nach WhatsApp (2009) am längsten am Markt ist Threema der T
 Signal hat ebenfalls den Fokus auf Sicherheit und Datenschutz. Signal (2014) ist, im Gegensatz zu Threema, eine Stiftung mit Sitz in den USA und finanziert sich durch Spenden. Die Applikation ist ebenfalls Open Source läuft auf allen Geräten (iOS, Android, Mac, Windows, Linux) sehr solide und erfährt regelmässig Updates. Öffentliche Auftritte der Stiftungspräsidentin Meredith Whittaker findet ihr einige auf Youtube. 
 
 ## SimpleX.chat
-Wer es ganz privat mag, kann SimpleX verwenden. Kontakte können nur durch die Weitergabe eines temporären, zufälligen digitalen Schlüssels – am einfachsten durch einen QR-Code – erstellt werden. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist, weil der Service ganz ohne Telefonnummer funktioniert. Im Gegensatz zu allen anderen ist SimpleX kein geschlossenes System, kein sogenanntes Datensilo. Für ein vollständiges Verständnis fehlt mir das Know-how. Im Anhang ist ein Video, welches SimpleX erklärt. Mir scheint dieses Konzept auf dem richtigen Weg und in meinem  engen Kreis nutze ich das. 
+Wer es ganz privat mag, kann SimpleX verwenden. Kontakte können nur durch die Weitergabe eines temporären, zufälligen digitalen Schlüssels – am einfachsten durch einen QR-Code – erstellt werden. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist, weil der Service ganz ohne Telefonnummer funktioniert. Im Gegensatz zu allen anderen ist SimpleX kein geschlossenes System, kein sogenanntes Datensilo. Für ein vollständiges Verständnis fehlt mir das Know-how. Im Anhang ist ein Video, welches SimpleX erklärt. Eine Bewegung weg von Datensilos wäre eine schöne Perspektive.
 
 ## Matrix.org
 Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten Activity-Pub-Protokoll läuft, ist die Schwelle etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider nicht empfehlen.
@@ -193,7 +193,9 @@ E-Mail ist nicht sicher, aber man kann es mindestens so herrichten, dass man nic
 
 Oft klingt es verlockend, wenn Anbieter wie die vorher genannten, es Google und Apple gleichtun wollen und zusätzlich Kalender und Adressbücher anbieten, weil dann hätte man grad alles verschlüsselt. Solange man nicht auf eine geschmeidige Synchronisation mit Familien- under Teammitgliedern angewiesen ist und mit etwas weniger Komfort klar kommt, ist das okay. Alles darüber hinaus wird schnell fricklig und unbefriedigend. Beispiel: Wir können bei Proton zwar die Kontakte importieren und sie dann aus dem Proton-App direkt anrufen oder per E-Mail kontaktieren; die Kontakte stehen dann aber für SMS und ähnliches nicht zur Verfügung. Und wir können aus einem angenommenen Anrufe nicht einfach so einen Kontakt in der Proton-App erstellen. 
 
-> hinweis zu https://www.etesync.com/
+>  https://www.etesync.com/ ((← Kram))
+> Frage: Wie sicher müssen Kontakte sein?
+> Nextcloud
 
 ## Spam
 Der Dienst Relay von Firefox bietet virtuelle E-Mail-Adressen an. Das bedeutet, man kann eine beliebige E-Mail-Adresse generieren lassen, welche man für einen bestimmten Ort im Web nutzen kann. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. Die E-Mails werden dann vom Absender an eine Adresse wie 6z0hy69we@mozmail.com versendet. Diese laufen dann zuerst über Firefox Relay, werden dort von allen Trackern entledigt und an die richtige Adresse weitergeleitet. Das passiert in Echtzeit. Wenn wir auf einer dieser Adressen Spam reinkriegen, können wir sie einfach löschen oder ändern. Wichtig: Auf diese E-Mails kann nicht geantwortet werden. Dazu benötigen wir einen Premium-Account für 1 Franken pro Monat. Damit lassen sich dann nebst den zufällig generierten Adressen auch massgeschneiderte erstellen, auf deren E-Mails man jeweils innerhalb von 3 Monaten auch Antworten senden kann. Eine Massgeschneiderte Firefox-Relay-Adresse könnte so aussehen: rhabarber@jwssnr.mozmail.com
