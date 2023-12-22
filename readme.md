@@ -1,15 +1,22 @@
 > Text in Arbeit. Bemerkungen erwünscht.
-
+----
 # Titelentwürfe
 - Damit das unklar ist!
-- Private Schrift zum Thema Sphäre.
 - Privatsphäre und andere Bubbles
+- Klar?
+- Sicher?
+## Untertitel
+- Etwas mehr Privatsphäre bitte.
 
+Jürgen Wössner
+1. Auflage, Januar 2024
+
+----
 ## Vorwort
 
-Als bei einer der jüngsten Infoveranstaltungen die Fachkräfte vorschlugen, man könne zu einem hier nicht weiter relevanten Zweck, eine WhatsApp-Gruppe eröffnen, grummelte ich mich leise vor mich hin. 
+Als neulich bei einer Infoveranstaltungen die Fachkräfte vorschlugen, man könne zu einem hier nicht weiter relevanten Zweck, eine WhatsApp-Gruppe eröffnen, grummelte ich mich leise vor mich hin. 
 
-Nun weiss ich natürlich nicht, wie bei euch der Stand an Informationen, das Verständnis selbiger Informationen, die Qualität eurer Verdrängungsmechanismen und das Level an Ohnmacht zusammenspielen. Deshalb versuche ich, möglichst kurz und knapp aufzuwärmen, was eigentich Allgemeinwissen sein sollte. So wie ich mich kenne, wirds dann doch länger.
+Nun weiss ich natürlich nicht, wie bei euch der Stand an Informationen, das Verständnis selbiger Informationen, die Qualität eurer Verdrängungsmechanismen und das Level an Ohnmacht zusammenspielen. Deshalb versuche ich, möglichst kurz und knapp aufzuwärmen, was eigentlich schon einige Jahre Allgemeinwissen sein sollte. So wie ich mich kenne, wird’s dann doch länger.
 
 Also …
 
@@ -29,7 +36,7 @@ Das gleiche gilt natürlich für Produkte des reichsten Musks der Welt. Löscht 
 
 Wir «wissen», WhatsApp sendet Inhalte von Nachrichten end-zu-end-verschlüsselt. So lange das so ist, liest niemand mit. Das lassen wir mal so stehen. WhatsApp, also Meta wertet aber die Metadaten jeder Nachricht aus. Ein zynisches Wortspiel? In den Metadaten steht allerhand und meist mehr als in der eigentlichen Nachricht: der vollständige Zeitstempel, die Telefonnummer, der ziemlich genaue Standort (je nach WLAN oder Mobilfunkmast), das Gerät (samt Modell und Software), die Art der Anhänge und noch mehr und natürlich jeweils für beide Seiten. Was genau davon weiss ich nicht, aber Meta wäre blöd, nicht alles zu verwerten.
 
-Aus diesen diesen Daten lassen sich Profile erstelle. Wenn zwei Metakundì sich regelmässig über Nacht am gleichen Ort befinden, ist es sehr wahrscheinlich ein Paar. Personen, welche diesen Haushalt besuchen, und vor Ort einen Meta-Dienst nutzen, werden natürlich auch ins Profil aufgenommen. Wenn in einem gewissen Abstand plötzlich weitere Nutzerì im selben Haushalt auftauchen und diese wiederum am Mittag heimkommen, sinds wohl die Kinder. Fantasieren wir ein bisschen, finden wir diverse Ideen, was sich rein aus dem Standort und dem Datum alles herrauslesen lässt. Sportzentrum, Kirche, Restaurant, RAV, Bank. Aber eben auch Beziehungen zu anderen Menschen. Für unseren Verstand ein grössere Denkaufgabe, für einen Algorithmus ein Klacks. Die Metadaten von WhatsApp, Facebook und Instagram landen alle im gleichen Topf, angereichert durch unsere Dunstkreise auf Facebook und Instagram samt inhaltlicher Präferenzen und Tendenzen was die Profile ziemlich fein macht – aber eben nicht zwingend korrekt, sondern mehr schubladenartig. 
+Aus diesen diesen Daten lassen sich Profile erstelle. Wenn zwei Metakundì sich regelmässig über Nacht am gleichen Ort befinden, ist es sehr wahrscheinlich ein Paar. Personen, welche diesen Haushalt besuchen, und vor Ort einen Meta-Dienst nutzen, werden natürlich auch ins Profil aufgenommen. Wenn in einem gewissen Abstand plötzlich weitere Nutzerì im selben Haushalt auftauchen und diese wiederum am Mittag heimkommen, sind’s wohl die Kinder. Fantasieren wir ein bisschen, finden wir diverse Ideen, was sich rein aus dem Standort und dem Datum alles herauslesen lässt. Sportzentrum, Kirche, Restaurant, RAV, Bank. Aber eben auch Beziehungen zu anderen Menschen. Für unseren Verstand ein grössere Denkaufgabe, für einen Algorithmus ein Klacks. Die Metadaten von WhatsApp, Facebook und Instagram landen alle im gleichen Topf, angereichert durch unsere Dunstkreise auf Facebook und Instagram samt inhaltlicher Präferenzen und Tendenzen was die Profile ziemlich fein macht – aber eben nicht zwingend korrekt, sondern mehr schubladenartig. 
 
 Wenn man sich vorstellt, dass diese Profile in die falschen Hände geraten, ist das sehr beklemmend. Ob das amtliche oder kriminelle Hintergründe hätte und wie ob die Profile korrekt oder falsch sind, würde nicht wirklich eine Rolle spielen. Ich will den Teufel nicht an die Wand malen, aber zur Zeit stimmen mich die Rechtsrütschchen allerorts nicht gerade zuversichtlich. Und dass ein einzelner Mensch einfach eine ganze Plattform kaufen kann ebenso wenig.
 
@@ -49,7 +56,7 @@ Bei Telegram steht es leider um die Verwertung unserer Metadaten nicht besser un
 
 ## Threema
 threema.ch
-Seit 2012 und somit nach WhatsApp (2009) am längsten am Markt ist Threema der Threema GmbH aus der Schweiz. Die Plattform hat den Fokus seit Beginn auf Sicherheit und Datenschutz und ist Open Source (siehe Seite XXX). Einziges Manko: Die Desktop-Version verlang bei jedem Aufstarten wieder einen Scan des QR-Codes mit dem App. Dass die App einen einmaligen einstelligen Frankenbetrag kostet, lass ich nicht als Nachteil gelten.
+Seit 2012 und somit nach WhatsApp (2009) am längsten am Markt ist Threema der Threema GmbH aus der Schweiz. Die Plattform hat den Fokus seit Beginn auf Sicherheit und Datenschutz und ist Open Source (siehe Seite XXX). Einziges Manko: Die Desktop-Version verlang bei jedem Start wieder einen Scan des QR-Codes mit dem App. Dass die App einen einmaligen einstelligen Frankenbetrag kostet, lass ich nicht als Nachteil gelten.
 
 ## Signal.org
 Signal hat ebenfalls den Fokus auf Sicherheit und Datenschutz. Signal (2014) ist, im Gegensatz zu Threema, eine Stiftung mit Sitz in den USA und finanziert sich durch Spenden. Die Applikation ist ebenfalls Open Source läuft auf allen Geräten (iOS, Android, Mac, Windows, Linux) sehr solide und erfährt regelmässig Updates. Öffentliche Auftritte der Stiftungspräsidentin Meredith Whittaker findet ihr einige auf Youtube. 
@@ -58,7 +65,7 @@ Signal hat ebenfalls den Fokus auf Sicherheit und Datenschutz. Signal (2014) ist
 Wer es ganz privat mag, kann SimpleX verwenden. Kontakte können nur durch die Weitergabe eines temporären, zufälligen digitalen Schlüssels – am einfachsten durch einen QR-Code – erstellt werden. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist, weil der Service ganz ohne Telefonnummer funktioniert. Im Gegensatz zu allen anderen ist SimpleX kein geschlossenes System, kein sogenanntes Datensilo. Für ein vollständiges Verständnis fehlt mir das Know-how. Im Anhang ist ein Video, welches SimpleX erklärt. Eine Bewegung weg von Datensilos wäre eine schöne Perspektive.
 
 ## Matrix.org
-Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten Activity-Pub-Protokoll läuft, ist die Schwelle etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider nicht empfehlen.
+Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten ActivityPub-Protokoll läuft, ist die Schwelle etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider nicht empfehlen.
 
 ## SMS, MMS, RCS
 Es gibt ja da noch den guten alten SMS, könnte man sagen. SMS/MMS wird im Moment nur aber noch genutzt, wenn von einem Android-Handy auf ein Apple-Handy und umgekehrt Nachrichten versendet werden, oder wenn gar kein Smart-Phone beteiligt ist. Gut nein, alt ja (30 Jahre). Apple-Userì kennen den «Effekt» mit den grünen und blauen Sprechblasen. Android-Nutzerì unter sich, können mit der hauseignen Nachrichten-App «Google Chat» ebenfalls Gruppenchats nutzen, Lesebestätigungen sehen und End-zu-End-Verschlüsselung standardmässig aktiv haben. Android nutzt dazu den offenen Standard RCS – Rich Communication Service. Apple-Userì unter sich, können mit iMessage die selben Dinge tun, allerdings mit einer apple-eignen Technologie. Nicht kompatibel. Apple will nun 2024 irgendwann iMessage um RCS erweitern. Das ist schön. Was das in Sachen Datenschutz bedeuten wird, ist noch unklar. Aber auch heute ist die Situation nicht ganz durchsichtig. Was Apple mit Metadaten macht, wissen wir nicht. Sie leben ja nicht davon durch die Zurverfügungstellung von Gratisdiensten Profile für Werbung zu erstellen, aber einzulagern scheinen sie diese trotzdem. 
@@ -189,16 +196,25 @@ Man munkelt, dass E-Mail-Dienstleister heute wegen der schieren Menge an Spam me
 
 E-Mail ist nicht sicher, aber man kann es mindestens so herrichten, dass man nicht ausspioniert wird.
 
-## Kalender und Adressen
+# Kalender, Adressen, Speicher
 
-Oft klingt es verlockend, wenn Anbieter wie die vorher genannten, es Google und Apple gleichtun wollen und zusätzlich Kalender und Adressbücher anbieten, weil dann hätte man grad alles verschlüsselt. Solange man nicht auf eine geschmeidige Synchronisation mit Familien- under Teammitgliedern angewiesen ist und mit etwas weniger Komfort klar kommt, ist das okay. Alles darüber hinaus wird schnell fricklig und unbefriedigend. Beispiel: Wir können bei Proton zwar die Kontakte importieren und sie dann aus dem Proton-App direkt anrufen oder per E-Mail kontaktieren; die Kontakte stehen dann aber für SMS und ähnliches nicht zur Verfügung. Und wir können aus einem angenommenen Anrufe nicht einfach so einen Kontakt in der Proton-App erstellen. 
+Oft klingt es verlockend, wenn Anbieter wie die vorher genannten, es Google und Apple gleichtun wollen und zusätzlich Kalender, Adressbücher und vielleicht auch noch Speicherplatz anbieten, weil dann hätte man grad alles verschlüsselt an einem Ort. Solange man nicht auf eine geschmeidige Synchronisation mit Familien- under Teammitgliedern angewiesen ist und mit weniger Komfort klar kommt, ist das okay. Man könnte beispielsweise alle Kalender mit einem einzigen gemeinsamen Posteo-Konto synchronisieren und jene Kalender, die man nicht sehen will, einfach individuell ausblenden. Uncool aber machbar.
 
->  https://www.etesync.com/ ((← Kram))
-> Frage: Wie sicher müssen Kontakte sein?
-> Nextcloud
+Alles darüber hinaus wird eben bei den alternativen Anbietern schnell fricklig und unbefriedigend. Ein Beispiel dafür: Wir können bei Proton die Kontakte importieren und sie dann aus dem Proton-App direkt anrufen oder per E-Mail kontaktieren; die Kontakte stehen dann aber für SMS und ähnliches nicht zur Verfügung. Und wir können aus einem angenommenen Anrufe nicht einfach so einen Kontakt in der Proton-App erstellen. Der Proton-Speicher, kann wie die Dropbox nur einen einzigen ordner Synchronisieren.
 
-## Spam
-Der Dienst Relay von Firefox bietet virtuelle E-Mail-Adressen an. Das bedeutet, man kann eine beliebige E-Mail-Adresse generieren lassen, welche man für einen bestimmten Ort im Web nutzen kann. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. Die E-Mails werden dann vom Absender an eine Adresse wie 6z0hy69we@mozmail.com versendet. Diese laufen dann zuerst über Firefox Relay, werden dort von allen Trackern entledigt und an die richtige Adresse weitergeleitet. Das passiert in Echtzeit. Wenn wir auf einer dieser Adressen Spam reinkriegen, können wir sie einfach löschen oder ändern. Wichtig: Auf diese E-Mails kann nicht geantwortet werden. Dazu benötigen wir einen Premium-Account für 1 Franken pro Monat. Damit lassen sich dann nebst den zufällig generierten Adressen auch massgeschneiderte erstellen, auf deren E-Mails man jeweils innerhalb von 3 Monaten auch Antworten senden kann. Eine Massgeschneiderte Firefox-Relay-Adresse könnte so aussehen: rhabarber@jwssnr.mozmail.com
+Wenn es wirklich nur um Kontakte und Kalender geht, ist der deutsche Anbieter Fruux eine gute Lösung. Auch hier gäbe es natürlich Open-Source-Alternativen, aber nichts, dass man als normalsterblicher Mensch einfach einrichten kann. Der kostenlose Basis-Plan von Fruux reicht übrigens aus, die Kontakte mit einem zweiten Gerät zu synchronisieren. 
+
+## Cloud
+
+In den gleichen Kontext gehören natürlich auch die Clouds, wobei der Begriff ja nicht ganz eindeutig ist. Gemeint ist hier Speicherplatz im Internet samt Synchronisation. Oder vielleicht All-in-One-Lösungen wie Google, Apple und Microsoft mit Mail, Kalender, Adressbuch und Speicherplatz? Egal. Wer sich loslösen will von den grossen Playern und alles en bloc haben möchte, kann mit einà Spezialistà an der Seite innerhalb eines halben Tages bei einer ausländischen Firma die Open-Source-Lösung Nextcloud aufsetzen und für € 5 pro Monat auf einer solide Lösung arbeiten, ohne ausspioniert zu werden. In der Schweiz sind die Preise genau hierfür leider massiv teurer. Aber: In Sachen Sicherheit können wir das fast mit E-Mail vergleichen. Die eigenen Daten sind auf dem Weg zur Cloud und auf der Cloud selbst nicht geschützt. Wer eindringt, kann alles sehen – egal ob Dropbox, Google Drive, One Drive, iCloud Drive oder Nextcloud
+
+Es gibt aber Firmen, die sich auf den reinen Datenspeicher und Datenaustausch spezialisiert haben. Wenn wir uns aber gewohnt sind, alles «gratis» zu kriegen, hauen uns die 14 Franken pro Nutzerà und Monat bei tresorit.ch halt kurz aus den Socken. Wer sensible Daten hat, kommt nicht darum herum, die sicher und doppelt zu lagern. Entweder auf einem sicheren Datenspeicher oder in einem Gebäude, welches nicht gleichzeitig wie das eigene niederbrennen oder überflutet werden kann.
+
+Es ist übrigens total in Ordnung alles aufzusplitten. Speicher bei Tresorit, Mail bei Proton, Adressen bei Posteo, Kalender bei Fruux. Beispielsweise. 
+
+# Spam
+
+Relay-Dienste bieten virtuelle E-Mail-Adressen an. Das bedeutet, man kann beliebige Adressen generieren lassen, welche für ebenso beliebige Ort im Web genutzt werden können. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. E-Mails an solche Adressen laufen dann immer zuerst über den Relay-Dienst und werden dann an die echte Adresse weitergeleitet. Im Idealfall werden sie dabei automatisch aller Tracker entledigt. So tut es zumindest der Dienst von Mozilla, «Firefox Relay». Das passiert in Echtzeit. Wenn wir nun auf einer dieser Adressen zu viel Müll reinkriegen, können wir sie einfach löschen oder ändern. Wichtig: Auf diese E-Mails kann nicht geantwortet werden. Dazu benötigen wir im Fall von Firefox Relay einen Premium-Account für 1 Franken pro Monat. Damit lassen sich dann nebst den zufällig generierten Adressen auch massgeschneiderte erstellen, auf deren Post man jeweils innerhalb von 3 Monaten auch Antworten senden kann. Eine Massgeschneiderte Firefox-Relay-Adresse könnte so aussehen, rhabarber@jwssnr.mozmail.com und eine zufällige so: 6z0hy69we@mozmail.com
 
 # Passwörter
 
@@ -218,7 +234,7 @@ Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit 
 
 Ich habe Verständnis dafür, dass es einen ein wenig gleichgültig ist, wie die Elektronik im eigenen Staubsauger funktioniert. Und ich habe Verständnis dafür, dass ein Computer-Betriebssystem und all die darauf gepackten Apps und Applikationen und dann noch das ganze Internet äusserst abstrakte und für «Quereinsteigende» schwer zugängliche Gebilde sind. 
 
-Aber ich möchte alle motivieren, sich mit all dem so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon. Und fertig wird man auch nicht. Das wurde mir in den Stunden, welche ich brauchte, all mein vermeintliches Wissen zu formulieren und zu überprüfen wieder bewusst. Ich wurde ich nicht fertig …
+Aber ich möchte alle motivieren, sich mit all dem so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon. Und fertig wird man auch nicht. Und einfacher auch nicht. Das wurde mir in den Stunden, welche ich brauchte, all mein vermeintliches Wissen zu formulieren und zu überprüfen wieder bewusst. 
 
 ☀︎
 Jürgen
