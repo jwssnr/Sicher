@@ -212,6 +212,9 @@ Es gibt aber Firmen, die sich auf den reinen Datenspeicher und Datenaustausch sp
 
 Es ist übrigens total in Ordnung alles aufzusplitten. Speicher bei Tresorit, Mail bei Proton, Adressen bei Posteo, Kalender bei Fruux. Beispielsweise. 
 
+## Der Vorteil 
+Nachdem man sich durchgekämpft hat, fühlt man sich etwas entfesselt von Apple oder Google. Für mich als Apple-Desktop-User bietet sich so die Möglichkeit, bei der nächsten Notwendigkeit, vielleicht ein alternatives, google- und apple-freies Smartphone zu kaufen.
+
 # Spam
 
 Relay-Dienste bieten virtuelle E-Mail-Adressen an. Das bedeutet, man kann beliebige Adressen generieren lassen, welche für ebenso beliebige Ort im Web genutzt werden können. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. E-Mails an solche Adressen laufen dann immer zuerst über den Relay-Dienst und werden dann an die echte Adresse weitergeleitet. Im Idealfall werden sie dabei automatisch aller Tracker entledigt. So tut es zumindest der Dienst von Mozilla, «Firefox Relay». Das passiert in Echtzeit. Wenn wir nun auf einer dieser Adressen zu viel Müll reinkriegen, können wir sie einfach löschen oder ändern. Wichtig: Auf diese E-Mails kann nicht geantwortet werden. Dazu benötigen wir im Fall von Firefox Relay einen Premium-Account für 1 Franken pro Monat. Damit lassen sich dann nebst den zufällig generierten Adressen auch massgeschneiderte erstellen, auf deren Post man jeweils innerhalb von 3 Monaten auch Antworten senden kann. Eine Massgeschneiderte Firefox-Relay-Adresse könnte so aussehen, rhabarber@jwssnr.mozmail.com und eine zufällige so: 6z0hy69we@mozmail.com
@@ -230,11 +233,11 @@ Ich empfehle, zu den beiden Produkten Videos anzuschauen. So wird es etwas fassb
 
 # Zum Schluss
 
-Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Geschichte unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer, die deutlich mächtiger sind als PCs vor 25 Jahren in unseren Hostentaschen rumtragen – und gelegentlich im Klo versenken. Und trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
+Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Geschichte unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer, die deutlich mächtiger sind als PCs vor 25 Jahren in unseren Hosentaschen rumtragen – und gelegentlich im Klo versenken. Und trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
 
 Ich habe Verständnis dafür, dass es einen ein wenig gleichgültig ist, wie die Elektronik im eigenen Staubsauger funktioniert. Und ich habe Verständnis dafür, dass ein Computer-Betriebssystem und all die darauf gepackten Apps und Applikationen und dann noch das ganze Internet äusserst abstrakte und für «Quereinsteigende» schwer zugängliche Gebilde sind. 
 
-Aber ich möchte alle motivieren, sich mit all dem so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon. Und fertig wird man auch nicht. Und einfacher auch nicht. Das wurde mir in den Stunden, welche ich brauchte, all mein vermeintliches Wissen zu formulieren und zu überprüfen wieder bewusst. 
+Aber ich möchte alle motivieren, sich mit all dem so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon. Und fertig wird man auch nicht. Das wurde mir in den Stunden, welche ich brauchte, all mein vermeintliches Wissen zu formulieren und zu überprüfen wieder bewusst. Und einfacher auch nicht. 
 
 ☀︎
 Jürgen
@@ -242,5 +245,5 @@ Jürgen
 ----
 
 # Anhang
-Dem Komfort zuliebe ist der ganze Anhang, welche ausschliesslich aus Links besteht, auf eine Website ausgelager – cookie- und trackerfrei natürlich.
+Dem Komfort zuliebe ist der ganze Anhang, welche ausschliesslich aus Links besteht, auf eine Website ausgelagert – cookie- und trackerfrei natürlich.
 → [sicher.wssnr.ch](https://sicher.wssnr.ch/)
