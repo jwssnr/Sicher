@@ -1,12 +1,8 @@
 > Text in Arbeit. Bemerkungen erwünscht.
 ----
 # Titelentwürfe
-- Damit das unklar ist!
-- Privatsphäre und andere Bubbles
-- Klar?
-- Sicher?
-## Untertitel
-- Etwas mehr Privatsphäre bitte.
+
+## Wir und die Grossen
 
 Jürgen Wössner
 1. Auflage, Januar 2024
@@ -112,7 +108,7 @@ Alle Beiträge aller Userì der eigenen Instanz
 
 Wenn man sich nicht an die Regeln im Dorf hält, kann man rausgeschmissen werden. Dafür kann man auch Userì und ganze Instanzen sperren, die einen persönlich nicht in den Kram passen.
 
-Technisch gesehen, sind es individuelle Server auf denen die Mastodon-Software läuft. Jede Person kann so einen Server aufsetzen und bildet somit automatisch eine Instanz im Mastodon-Netzwerk. Ich empfehle aber, eine Instanz auszuwählen, die nicht nur von einer einzelnen Person bei Vollmond gewartet wird sondern eher etwas grösseres. Auf *joinmastodon.org/servers* finden wir eine Liste aller Instanzen, filterbar nach Sprache und Interessen.
+Technisch gesehen, sind es individuelle Server auf denen die Mastodon-Software läuft. Jede Person kann so einen Server aufsetzen und bildet somit automatisch eine Instanz im Mastodon-Netzwerk. Ich empfehle aber, eine Instanz auszuwählen, die nicht nur von einer einzelnen Person bei Vollmond gewartet wird sondern eher etwas grösseres. Auf joinmastodon.org/servers finden wir eine Liste aller Instanzen, filterbar nach Sprache und Interessen.
 
 Ich persönlich «wohne» in typo.social. Meine Username lautet @jwssnr und meine vollständige «Anschrift» deshalb @jwssnr@typo.social.
 
@@ -177,10 +173,10 @@ Orion ist der Browser aus dem Haus der Suchmaschine Kagi und hat den gleichen Un
 Large in diesem Zusammenhang bedeutet übrigens eine Grössenordnung von mehreren 100 Trillionen Wörtern. Wenn ich pro Sekunde ein Wort zähle, bin ich in mehreren Millionen Jahren damit fertig. Das klingt wie unnützes Wissen aber es ist doch irgendwie wichtig, weil es nicht darum geht, wie gross das Universum ist, sondern unsere eigene Welt. ChatGPT kennt übrigens nur mehrere Milliarden. Für eine einzige Milliarde darf ich immerhin 30 Jahre zählen.
 
 # Open Source
+
 Wieso soll es ein Vorteil sein, wenn eine Software Open Source ist? Nun per se ist es das nicht und es gibt tatsächlich einige Programme und Projekte, denen sieht man von weitem an, dass keine Fachkraft in Sachen Design mit von der Partie ist, was ein solches Tool dann für den Gebrauch wenig attraktiv macht. Aber es bedeutet, dass die Software frei verfügbar und komplett einsehbar ist. Softwareentwicklerì können sich so aktiv an der Entwicklung beteiligen, können Fehler und Schwachstellen entdecken und auch beheben helfen. Das klingt etwas nerdig und man mag sich fragen, wer sich denn da schon die Mühe dazu machen soll. Es gibt mehr als nur eine Million Softwareentwickerì auf dem Globus und da sind sehr viele dabei, die sich das mit Herzblut genau anschauen.  
 
-Wie kann es sein, dass etwas gratis ist und trotzdem anständig?
-Ich denke, das hat vorallem mit dem Spirit der Community zu tun. Wir Entwickler profitieren alle von gegenseitigem Austausch. Wir nutzen alle kleine und grosse Softwarebauteile, die andere bereits gebaut haben und geben ebenso gerne Wissen und Handwerk gerne weiter. Das funktioniert seit dem Beginn des WWW so und passt auch zu dessen Geist, denn alle Technologie-Standards welche vom W3C verabschiedet werden, sind ebenfalls offen. Ich kenne viele Open-Source-Projekte, welche Ihren Nutzerì vorschlagen, doch eine kleine Spende zu tätigen und das funktioniert ebenfalls bei einer schönen Menge.
+Wie kann es sein, dass etwas gratis ist und trotzdem anständig? Ich denke, das hat vorallem mit dem Spirit der Community zu tun. Wir Entwickler profitieren alle von gegenseitigem Austausch. Wir nutzen alle kleine und grosse Softwarebauteile, die andere bereits gebaut haben und geben ebenso gerne Wissen und Handwerk gerne weiter. Das funktioniert seit dem Beginn des WWW so und passt auch zu dessen Geist, denn alle Technologie-Standards welche vom W3C verabschiedet werden, sind ebenfalls offen. Ich kenne viele Open-Source-Projekte, welche Ihren Nutzerì vorschlagen, doch eine kleine Spende zu tätigen und das funktioniert ebenfalls bei einer schönen Menge.
 
 ## Nicht Open Source und trotzdem gratis bedeutet sehr sehr wahrscheinlich nicht gratis. Dies die Faustregel.
 
@@ -212,12 +208,15 @@ Es gibt aber Firmen, die sich auf den reinen Datenspeicher und Datenaustausch sp
 
 Es ist übrigens total in Ordnung alles aufzusplitten. Speicher bei Tresorit, Mail bei Proton, Adressen bei Posteo, Kalender bei Fruux. Beispielsweise. 
 
-## Der Vorteil 
-Nachdem man sich durchgekämpft hat, fühlt man sich etwas entfesselt von Apple oder Google. Für mich als Apple-Desktop-User bietet sich so die Möglichkeit, bei der nächsten Notwendigkeit, vielleicht ein alternatives, google- und apple-freies Smartphone zu kaufen.
+## Befreiungskampf 
 
-# Spam
+Nachdem man sich durchgekämpft hat, fühlt man sich etwas entfesselt von Apple oder Google. Für mich als Apple-Desktop-User bietet sich so die Möglichkeit, bei der nächsten Notwendigkeit, vielleicht ein alternatives, google- und apple-freies Smartphone zu kaufen – etwas wie murena.com zu nutzen. 
 
-Relay-Dienste bieten virtuelle E-Mail-Adressen an. Das bedeutet, man kann beliebige Adressen generieren lassen, welche für ebenso beliebige Ort im Web genutzt werden können. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. E-Mails an solche Adressen laufen dann immer zuerst über den Relay-Dienst und werden dann an die echte Adresse weitergeleitet. Im Idealfall werden sie dabei automatisch aller Tracker entledigt. So tut es zumindest der Dienst von Mozilla, «Firefox Relay». Das passiert in Echtzeit. Wenn wir nun auf einer dieser Adressen zu viel Müll reinkriegen, können wir sie einfach löschen oder ändern. Wichtig: Auf diese E-Mails kann nicht geantwortet werden. Dazu benötigen wir im Fall von Firefox Relay einen Premium-Account für 1 Franken pro Monat. Damit lassen sich dann nebst den zufällig generierten Adressen auch massgeschneiderte erstellen, auf deren Post man jeweils innerhalb von 3 Monaten auch Antworten senden kann. Eine Massgeschneiderte Firefox-Relay-Adresse könnte so aussehen, rhabarber@jwssnr.mozmail.com und eine zufällige so: 6z0hy69we@mozmail.com
+# Spam-Prophylaxe
+
+Firefox Relay und SimpleLogin sind zwei Dienste für virtuelle E-Mail-Adressen, Pseudonyme quasi. Das bedeutet, man kann sich direkt im Browser, dort wo man sie braucht, beliebige Adressen generieren lassen, welche für ebenso beliebige Ort im Web genutzt werden können. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. E-Mails an solche Adressen laufen dann immer zuerst über den Dienst und werden dann an die reale Adresse weitergeleitet. Wenn wir nun auf einer dieser Adressen zu viel Müll reinkriegen, können wir sie einfach löschen oder ändern.
+
+Beide Dienste funktionieren sehr gut. Vorteil bei Firefox Relay: Die E-Mails werden vor der Weiterleitung gleich aller Tracker entledigt und die Oberfläche gibts auch in Deutsch. Dafür ist SimpleLogin etwas spezialisierter und kostet auch etwas mehr. $ 30.– statt 12.– pro Jahr bei Firefox Relay. Um die jeweils kostenlosen Preispläne kommt man eh nicht herum, weil die von der Menge an Adressen (5 bzw. 10) nur zum Testen nützlich sind.
 
 # Passwörter
 
