@@ -45,23 +45,22 @@ Was bei Twitter – heute X – zur Zeit los ist, versteh ich selbst nicht ganz.
 Das grosse «Gehts-noch?!» bei X, wie auch bei Facebook und Instagram, sind die manipulierten Datenflüsse. Nicht ihr bestimmt, was wichtig ist für euch, sondern Algorithmen. Ihr folgt zwar ausgewählten Kanälen, aber  deren Beiträge kommen eher «kuratiert» bis zu euch durch. Dazwischen passende Werbung. Etwas polemisch: Ihr kriegt also das zu lesen, was Musk und Mark wollen. Das ist manipulativ.
 
 # WhatsApp-Alternativen
-Sucht man Alternativen fürs sogenannte Instant-Messaging, ist die Auswahl recht begrenzt – glücklicherweise.
+Sucht man Alternativen für Instant-Messaging-Dienste, ist die Auswahl begrenzt – glücklicherweise.
 
 ## Telegram, nein
 Bei Telegram steht es leider um die Verwertung unserer Metadaten nicht besser und end-zu-end-verschlüsselte Nachrichten sind da in Gruppen nicht möglich. Zudem steht Telegram schon seit Jahren in der Kritik in Sachen Verschlüsselungsqualität und Datenschutz. Aktueller Standort der Entwicklungsabteilung: Dubai. Firmensitz: unbekannt. Besitzer: Pawel Durow, Multi-Milliardär.
 
 ## Threema
-threema.ch
 Seit 2012 und somit nach WhatsApp (2009) am längsten am Markt ist Threema der Threema GmbH aus der Schweiz. Die Plattform hat den Fokus seit Beginn auf Sicherheit und Datenschutz und ist Open Source (siehe Seite XXX). Einziges Manko: Die Desktop-Version verlang bei jedem Start wieder einen Scan des QR-Codes mit dem App. Dass die App einen einmaligen einstelligen Frankenbetrag kostet, lass ich nicht als Nachteil gelten.
 
 ## Signal.org
 Signal hat ebenfalls den Fokus auf Sicherheit und Datenschutz. Signal (2014) ist, im Gegensatz zu Threema, eine Stiftung mit Sitz in den USA und finanziert sich durch Spenden. Die Applikation ist ebenfalls Open Source läuft auf allen Geräten (iOS, Android, Mac, Windows, Linux) sehr solide und erfährt regelmässig Updates. Öffentliche Auftritte der Stiftungspräsidentin Meredith Whittaker findet ihr einige auf Youtube. 
 
 ## SimpleX.chat
-Wer es ganz privat mag, kann SimpleX verwenden. Kontakte können nur durch die Weitergabe eines temporären, zufälligen digitalen Schlüssels – am einfachsten durch einen QR-Code – erstellt werden. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist, weil der Service ganz ohne Telefonnummer funktioniert. Im Gegensatz zu allen anderen ist SimpleX kein geschlossenes System, kein sogenanntes Datensilo. Für ein vollständiges Verständnis fehlt mir das Know-how. Im Anhang ist ein Video, welches SimpleX erklärt. Eine Bewegung weg von Datensilos wäre eine schöne Perspektive.
+Wer es absolut privat mag, kann SimpleX ausprobieren. Kontakte können nur durch die Weitergabe eines temporären, zufälligen generierten Schlüssels gespeichert werden – per Einladungs-Link oder QR-Code. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist. Ich rate aber, die Verbindungen so zu erstellen, dass wirklich klar ist, wer einen da einen Schlüssel schickt – am besten von Angesicht zu Angesicht. Das Projekt bleibt wohl wegen der kleinen Einstiegshürde in einer Nische. Aber für Aktivistì und Journalistì könnte das was sein. 
 
 ## Matrix.org
-Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten ActivityPub-Protokoll läuft, ist die Schwelle etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider nicht empfehlen.
+Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten ActivityPub-Protokoll läuft, ist die Schwelle nochmals etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider im Moment noch nicht empfehlen. Aber ich bin da. Username: @jwssnr:matrix.org
 
 ## SMS, MMS, RCS
 Es gibt ja da noch den guten alten SMS, könnte man sagen. SMS/MMS wird im Moment nur aber noch genutzt, wenn von einem Android-Handy auf ein Apple-Handy und umgekehrt Nachrichten versendet werden, oder wenn gar kein Smart-Phone beteiligt ist. Gut nein, alt ja (30 Jahre). Apple-Userì kennen den «Effekt» mit den grünen und blauen Sprechblasen. Android-Nutzerì unter sich, können mit der hauseignen Nachrichten-App «Google Chat» ebenfalls Gruppenchats nutzen, Lesebestätigungen sehen und End-zu-End-Verschlüsselung standardmässig aktiv haben. Android nutzt dazu den offenen Standard RCS – Rich Communication Service. Apple-Userì unter sich, können mit iMessage die selben Dinge tun, allerdings mit einer apple-eignen Technologie. Nicht kompatibel. Apple will nun 2024 irgendwann iMessage um RCS erweitern. Das ist schön. Was das in Sachen Datenschutz bedeuten wird, ist noch unklar. Aber auch heute ist die Situation nicht ganz durchsichtig. Was Apple mit Metadaten macht, wissen wir nicht. Sie leben ja nicht davon durch die Zurverfügungstellung von Gratisdiensten Profile für Werbung zu erstellen, aber einzulagern scheinen sie diese trotzdem. 
