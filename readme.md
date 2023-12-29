@@ -229,6 +229,8 @@ Wichtig: Beide verschlüsseln die Daten beim Speichern und laden sie **danach** 
 
 Ich empfehle, zu den beiden Produkten Videos anzuschauen. So wird es etwas fassbarer, wie diese Dinger funktionieren.
 
+Eine kleine Empfehlung wurde mir noch zugetragen: Wenn man all seine Zugangsdaten nur auf einem Rechner gespeichert haben will, ist man mit KeePassXC ebenfalls gut bedient – oder sogar noch ein My besser.
+
 # Zum Schluss
 
 Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Geschichte unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer, die deutlich mächtiger sind als PCs vor 25 Jahren in unseren Hosentaschen rumtragen – und gelegentlich im Klo versenken. Und trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
@@ -245,3 +247,6 @@ Jürgen
 # Anhang
 Dem Komfort zuliebe ist der ganze Anhang, welche ausschliesslich aus Links besteht, auf eine Website ausgelagert – cookie- und trackerfrei natürlich.
 → [sicher.wssnr.ch](https://sicher.wssnr.ch/)
+
+# Danke
+((…))
