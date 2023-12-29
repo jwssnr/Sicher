@@ -24,15 +24,15 @@ Also …
 
 # Drei Gründe, Mark und Musk den Schuh zu geben
 
-WhatsApp, Instagram und Facebook gehören der Firma Meta, bzw. dem gänzlich sympathiebefreiten Mark Zuckerberg. Ohne Anstrengung findet ihr viele Video- und Textbelege, wo er sich aus der Verantwortung redet, Barrieren gegen die Verbreitung von Desinformationen und Hetze auf seinen Plattformen aufzustellen. Ihr erinnert euch an Trump. Rein aus ökonomischen Gründen wahrscheinlich. Das alleine wäre eigentlich Grund genug, kein einziges Meta-Produkt mehr zu brauchen.
+WhatsApp, Instagram und Facebook gehören der Firma Meta, bzw. dem gänzlich sympathiebefreiten Mark Zuckerberg. Ohne Anstrengung findet ihr viele Video- und Textbelege, wo er sich aus der Verantwortung redet, Barrieren gegen die Verbreitung von Desinformationen und Hetze auf seinen Plattformen aufzustellen. Ihr erinnert euch an Trump. Rein aus ökonomischen Gründen natürlich. Das alleine wäre eigentlich Grund genug, kein einziges Meta-Produkt mehr zu brauchen.
 
-Das gleiche gilt natürlich für Produkte des reichsten Musks der Welt. Löscht euern Twitter-Account. Und wenn euer Tesla niemand mehr will, macht wenigstens einen grösstmöglichen Aufkleber drauf: «Diesen Tesla kaufte ich, bevor ich wusste, dass Musk ein rechtsliberaler Füdligrind ist.»
+Das gleiche gilt ebenso für Produkte des reichsten Musks der Welt. Löscht euern Twitter-Account. Und wenn euer Tesla niemand mehr will, macht wenigstens einen grösstmöglichen Aufkleber drauf: «Diesen Tesla kaufte ich, bevor ich wusste, dass Musk ein rechtsliberales Backpfeifengesicht ist.»
 
 ## Eins: Fichen
 
-Wir «wissen», WhatsApp sendet Inhalte von Nachrichten end-zu-end-verschlüsselt. So lange das so ist, liest niemand mit. Das lassen wir mal so stehen. WhatsApp, also Meta wertet aber die Metadaten jeder Nachricht aus. Ein zynisches Wortspiel? In den Metadaten steht allerhand und meist mehr als in der eigentlichen Nachricht: der vollständige Zeitstempel, die Telefonnummer, der ziemlich genaue Standort (je nach WLAN oder Mobilfunkmast), das Gerät (samt Modell und Software), die Art der Anhänge und noch mehr und natürlich jeweils für beide Seiten. Was genau davon weiss ich nicht, aber Meta wäre blöd, nicht alles zu verwerten.
+Wir «wissen», WhatsApp sendet Inhalte von Nachrichten end-zu-end-verschlüsselt. So lange das so ist, liest niemand mit. Das lassen wir mal so stehen. WhatsApp, also Meta wertet aber die Metadaten jeder Nachricht aus. Ein zynisches Wortspiel? In den Metadaten steht allerhand und meist mehr als in der eigentlichen Nachricht: der vollständige Zeitstempel, die Telefonnummer, der ziemlich genaue Standort (je nach WLAN, Mobilfunkmast oder GPS), das Gerät (samt Modell und Software), die Art der Anhänge und noch mehr und natürlich jeweils für beide Seiten. Was genau davon weiss ich nicht, aber Meta wäre blöd, nicht alles zu verwerten.
 
-Aus diesen diesen Daten lassen sich Profile erstelle. Wenn zwei Metakundì sich regelmässig über Nacht am gleichen Ort befinden, ist es sehr wahrscheinlich ein Paar. Personen, welche diesen Haushalt besuchen, und vor Ort einen Meta-Dienst nutzen, werden natürlich auch ins Profil aufgenommen. Wenn in einem gewissen Abstand plötzlich weitere Nutzerì im selben Haushalt auftauchen und diese wiederum am Mittag heimkommen, sind’s wohl die Kinder. Fantasieren wir ein bisschen, finden wir diverse Ideen, was sich rein aus dem Standort und dem Datum alles herauslesen lässt. Sportzentrum, Kirche, Restaurant, RAV, Bank. Aber eben auch Beziehungen zu anderen Menschen. Für unseren Verstand ein grössere Denkaufgabe, für einen Algorithmus ein Klacks. Die Metadaten von WhatsApp, Facebook und Instagram landen alle im gleichen Topf, angereichert durch unsere Dunstkreise auf Facebook und Instagram samt inhaltlicher Präferenzen und Tendenzen was die Profile ziemlich fein macht – aber eben nicht zwingend korrekt, sondern mehr schubladenartig. 
+Aus diesen diesen Daten lassen sich Profile erstelle. Wenn zwei Metakundì sich regelmässig über Nacht am gleichen Ort befinden, ist es sehr wahrscheinlich ein Paar. Personen, welche diesen Haushalt besuchen, und vor Ort einen Meta-Dienst nutzen, werden natürlich auch ins Profil aufgenommen. Wenn in einem gewissen Abstand plötzlich weitere Nutzerì im selben Haushalt auftauchen und diese wiederum am Mittag heimkommen oder halt einfach tagsüber Schule X besuchen, sind’s wohl die Kinder. Fantasieren wir ein bisschen, finden wir diverse Ideen, was sich rein aus dem Standort und dem Datum alles herauslesen lässt. Sportzentrum, Kirche, Restaurant, RAV, Bank, Ferienort. Aber eben auch Beziehungen zu anderen Menschen. Für unseren Verstand ein grössere Denkaufgabe, für einen Algorithmus ein Klacks. Die Metadaten von WhatsApp, Facebook und Instagram landen alle im gleichen Topf, angereichert durch unsere Dunstkreise auf Facebook und Instagram samt inhaltlicher Präferenzen und Tendenzen was die Profile ziemlich fein macht – aber eben nicht zwingend korrekt, sondern mehr schubladenartig. 
 
 Wenn man sich vorstellt, dass diese Profile in die falschen Hände geraten, ist das sehr beklemmend. Ob das amtliche oder kriminelle Hintergründe hätte und wie ob die Profile korrekt oder falsch sind, würde nicht wirklich eine Rolle spielen. Ich will den Teufel nicht an die Wand malen, aber zur Zeit stimmen mich die Rechtsrütschchen allerorts nicht gerade zuversichtlich. Und dass ein einzelner Mensch einfach eine ganze Plattform kaufen kann ebenso wenig.
 
@@ -110,6 +110,9 @@ Wenn man sich nicht an die Regeln im Dorf hält, kann man rausgeschmissen werden
 Technisch gesehen, sind es individuelle Server auf denen die Mastodon-Software läuft. Jede Person kann so einen Server aufsetzen und bildet somit automatisch eine Instanz im Mastodon-Netzwerk. Ich empfehle aber, eine Instanz auszuwählen, die nicht nur von einer einzelnen Person bei Vollmond gewartet wird sondern eher etwas grösseres. Auf joinmastodon.org/servers finden wir eine Liste aller Instanzen, filterbar nach Sprache und Interessen.
 
 Ich persönlich «wohne» in typo.social. Meine Username lautet @jwssnr und meine vollständige «Anschrift» deshalb @jwssnr@typo.social.
+
+## Alternativen
+Wie sich Bluesky, die Plattform des Twitter-Gründers Jack Dorsey, entwickeln wird bleibt unter Beobachtung. Es gibt eine gewisse Verwandtschaft mit Mastodon, weil es dezentralisiert auf einem offenen Protokoll läuft. Das ist schon mal gut. Und Nostr, ebenfalls angekickt von Dorsey, ist ein interessantes Konzept, weil es auf der Blockchain-Technologie basiert. Ebenfalls beobachten. Threads.net können wir nicht als Alternative hinnehmen, weil es Meta gehört – löbliche Ansätze hin oder her.
 
 
 # Zurück zum Thema Fichen füttern
@@ -201,15 +204,15 @@ Wenn es wirklich nur um Kontakte und Kalender geht, ist der deutsche Anbieter Fr
 
 ## Cloud
 
-In den gleichen Kontext gehören natürlich auch die Clouds, wobei der Begriff ja nicht ganz eindeutig ist. Gemeint ist hier Speicherplatz im Internet samt Synchronisation. Oder vielleicht All-in-One-Lösungen wie Google, Apple und Microsoft mit Mail, Kalender, Adressbuch und Speicherplatz? Egal. Wer sich loslösen will von den grossen Playern und alles en bloc haben möchte, kann mit einà Spezialistà an der Seite innerhalb eines halben Tages bei einer ausländischen Firma die Open-Source-Lösung Nextcloud aufsetzen und für € 5 pro Monat auf einer solide Lösung arbeiten, ohne ausspioniert zu werden. In der Schweiz sind die Preise genau hierfür leider massiv teurer. Aber: In Sachen Sicherheit können wir das fast mit E-Mail vergleichen. Die eigenen Daten sind auf dem Weg zur Cloud und auf der Cloud selbst nicht geschützt. Wer eindringt, kann alles sehen – egal ob Dropbox, Google Drive, One Drive, iCloud Drive oder Nextcloud
+In den gleichen Kontext gehören natürlich auch die Clouds, wobei der Begriff ja nicht ganz eindeutig ist. Gemeint ist hier Speicherplatz im Internet samt Synchronisation. Oder vielleicht All-in-One-Lösungen wie Google, Apple und Microsoft mit Mail, Kalender, Adressbuch und Speicherplatz? Egal. Wer sich loslösen will von den grossen Playern und alles en bloc haben möchte, kann mit einà Spezialistà an der Seite innerhalb eines halben Tages bei einer ausländischen Firma die Open-Source-Lösung Nextcloud aufsetzen und für € 5 pro Monat auf einer solide Lösung arbeiten, ohne ausspioniert zu werden. In der Schweiz sind die Preise genau hierfür leider massiv teurer. Aber: In Sachen Sicherheit können wir das fast mit E-Mail vergleichen. Die eigenen Daten sind auf dem Weg zur Cloud und auf der Cloud selbst nicht geschützt. Wer eindringt, kann alles sehen – egal ob Dropbox, Google Drive, One Drive, iCloud Drive oder Nextcloud. Wobei letztere grundsätzlich auch verschlüsselt werden kann, was aber für Normalsterbliche kein gangbarer Weg ist.
 
-Es gibt aber Firmen, die sich auf den reinen Datenspeicher und Datenaustausch spezialisiert haben. Wenn wir uns aber gewohnt sind, alles «gratis» zu kriegen, hauen uns die 14 Franken pro Nutzerà und Monat bei tresorit.ch halt kurz aus den Socken. Wer sensible Daten hat, kommt nicht darum herum, die sicher und doppelt zu lagern. Entweder auf einem sicheren Datenspeicher oder in einem Gebäude, welches nicht gleichzeitig wie das eigene niederbrennen oder überflutet werden kann.
+Es gibt aber Firmen, die sich auf den reinen Datenspeicher und Datenaustausch spezialisiert haben. Wenn wir uns aber gewohnt sind, alles «gratis» zu kriegen, hauen uns die 14 Franken pro Nutzerà und Monat bei tresorit.ch halt kurz aus den Socken. Wer sensible Daten hat, kommt nicht darum herum, jene sicher und doppelt zu lagern. Entweder auf einem sicheren Datenspeicher oder in einem Gebäude, welches nicht gleichzeitig wie das eigene niederbrennen oder überflutet werden kann.
 
-Es ist übrigens total in Ordnung alles aufzusplitten. Speicher bei Tresorit, Mail bei Proton, Adressen bei Posteo, Kalender bei Fruux. Beispielsweise. 
+Es ist übrigens total in Ordnung alles aufzusplitten. Speicher bei Tresorit, Mail bei Proton, Adressen bei Posteo, Kalender bei Fruux. Oder andersrum, oder so. Beispielsweise 
 
 ## Befreiungskampf 
 
-Nachdem man sich durchgekämpft hat, fühlt man sich etwas entfesselt von Apple oder Google. Für mich als Apple-Desktop-User bietet sich so die Möglichkeit, bei der nächsten Notwendigkeit, vielleicht ein alternatives, google- und apple-freies Smartphone zu kaufen – etwas wie murena.com zu nutzen. 
+Nachdem man sich durchgekämpft hat, fühlt man sich etwas entfesselt. Für mich als Apple-Desktop-User bietet sich so die Möglichkeit, bei der nächsten Notwendigkeit, vielleicht ein alternatives, google- und apple-freies Smartphone zu kaufen und etwas wie murena.com zu nutzen. 
 
 # Spam-Prophylaxe
 
@@ -245,7 +248,7 @@ Jürgen
 ----
 
 # Anhang
-Dem Komfort zuliebe ist der ganze Anhang, welche ausschliesslich aus Links besteht, auf eine Website ausgelagert – cookie- und trackerfrei natürlich.
+Dem Komfort zuliebe ist der ganze Anhang, welcher ausschliesslich aus Links besteht, auf eine Website ausgelagert – frei von Cookies und Trackern natürlich.
 → [sicher.wssnr.ch](https://sicher.wssnr.ch/)
 
 # Danke
