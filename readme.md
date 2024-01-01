@@ -5,7 +5,7 @@
 ## Wir und die Grossen
 
 Jürgen Wössner
-1. Auflage, Januar 2024
+Januar 2024
 
 ----
 ## Vorwort
@@ -57,7 +57,7 @@ Seit 2012 und somit nach WhatsApp (2009) am längsten am Markt ist Threema der T
 Signal hat ebenfalls den Fokus auf Sicherheit und Datenschutz. Signal (2014) ist, im Gegensatz zu Threema, eine Stiftung mit Sitz in den USA und finanziert sich durch Spenden. Die Applikation ist ebenfalls Open Source läuft auf allen Geräten (iOS, Android, Mac, Windows, Linux) sehr solide und erfährt regelmässig Updates. Öffentliche Auftritte der Stiftungspräsidentin Meredith Whittaker findet ihr einige auf Youtube. 
 
 ## SimpleX.chat
-Wer es absolut privat mag, kann SimpleX ausprobieren. Kontakte können nur durch die Weitergabe eines temporären, zufälligen generierten Schlüssels gespeichert werden – per Einladungs-Link oder QR-Code. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist. Ich rate aber, die Verbindungen so zu erstellen, dass wirklich klar ist, wer einen da einen Schlüssel schickt – am besten von Angesicht zu Angesicht. Das Projekt bleibt wohl wegen der kleinen Einstiegshürde in einer Nische. Aber für Aktivistì und Journalistì könnte das was sein. 
+Wer es absolut privat mag, kann SimpleX ausprobieren. Kontakte können nur durch die Weitergabe eines temporären, zufälligen generierten Schlüssels gespeichert werden – per Einladungs-Link oder QR-Code. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist. Ich rate aber, die Verbindungen so zu erstellen, dass wirklich klar ist, wer einen da einen Schlüssel schickt – am besten von Angesicht zu Angesicht. Die meisten von uns mögen ob dieser Hürde schon ein wenig die Augen rollen, aber für Aktivistì und Journalistì könnte das was sein. 
 
 ## Matrix.org
 Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten ActivityPub-Protokoll läuft, ist die Schwelle nochmals etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider im Moment noch nicht empfehlen. Aber ich bin da. Username: @jwssnr:matrix.org
@@ -112,8 +112,12 @@ Technisch gesehen, sind es individuelle Server auf denen die Mastodon-Software l
 Ich persönlich «wohne» in typo.social. Meine Username lautet @jwssnr und meine vollständige «Anschrift» deshalb @jwssnr@typo.social.
 
 ## Alternativen
-Wie sich Bluesky, die Plattform des Twitter-Gründers Jack Dorsey, entwickeln wird bleibt unter Beobachtung. Es gibt eine gewisse Verwandtschaft mit Mastodon, weil es dezentralisiert auf einem offenen Protokoll läuft. Das ist schon mal gut. Und Nostr, ebenfalls angekickt von Dorsey, ist ein interessantes Konzept, weil es auf der Blockchain-Technologie basiert. Ebenfalls beobachten. Threads.net können wir nicht als Alternative hinnehmen, weil es Meta gehört – löbliche Ansätze hin oder her.
+Wie sich Bluesky, das von Twitter-Gründer Jack Dorsey 2019 gestartete Projekt, entwickeln wird, bleibt unter Beobachtung. Das gilt auch für Nostr, ebenfalls von Dorsey unterstützt. Beides Systeme auf einem offenen Protokoll und dezentralisiert. Threads.net können wir nicht als Alternative hinnehmen, weil es Meta gehört – löbliche Ansätze hin oder her. Aber es tut sich gerade sehr. Das ist schön.
+## Und Instagram?
 
+Nun, am ähnlichsten scheint mir tatsächlich **Pixelfed.social**. Das finde ich wunderbar, denn es läuft ebenfalls auf dem ActivityPup, was bedeutet, dass man sich mit seinem Mastodon-Account einloggen könnte, wenn man wollte. Die Plattform scheint mittlerweilen besser besucht und genutzt und wer wirklich «nur» Bildmaterial teilen will und auf «Stories» verzichten kann, wird sich da viel wohler fühlen als auf Instagram.
+
+**Vero.co** wurde eine Zeit lang ziemlich gehyped, aber es wird gemunkelt, dass einige Insta-Influenzerì dafür angeheuert wurden. Es macht soweit einen guten Eindruck und es wäre auch okay, dafür etwas zu bezahlen, aber es kann viel mehr als nur Bilder teilen und das macht es sehr unübersichtlich. Nebst dem haben wir es hier wieder mit einem Datensilo, also einem isolierten Dienst, zu tun haben. Ich kann es weder empfehlen, noch davon abraten. Wollte es nur nicht auslassen. 
 
 # Zurück zum Thema Fichen füttern
 
