@@ -26,7 +26,7 @@ Also …
 
 WhatsApp, Instagram und Facebook gehören der Firma Meta, bzw. dem gänzlich sympathiebefreiten Mark Zuckerberg. Ohne Anstrengung findet ihr viele Video- und Textbelege, wo er sich aus der Verantwortung redet, Barrieren gegen die Verbreitung von Desinformationen und Hetze auf seinen Plattformen aufzustellen. Ihr erinnert euch an Trump. Rein aus ökonomischen Gründen natürlich. Das alleine wäre eigentlich Grund genug, kein einziges Meta-Produkt mehr zu brauchen.
 
-Das gleiche gilt ebenso für Produkte des reichsten Musks der Welt. Löscht euern Twitter-Account. Und wenn euer Tesla niemand mehr will, macht wenigstens einen grösstmöglichen Aufkleber drauf: «Diesen Tesla kaufte ich, bevor ich wusste, dass Musk ein rechtsliberales Backpfeifengesicht ist.»
+Das gleiche gilt ebenso für Produkte des reichsten Musks der Welt. Löscht euern Twitter-Account. Und wenn euer Tesla niemand mehr will, macht wenigstens einen grösstmöglichen Aufkleber drauf: «Diesen Tesla kaufte ich, bevor ich wusste, dass Musk ein rechtsliberales Backpfeifengesicht ist. Xgüsi.»
 
 ## Eins: Fichen
 
@@ -35,45 +35,34 @@ Wir «wissen», WhatsApp sendet Inhalte von Nachrichten end-zu-end-verschlüssel
 Aus diesen diesen Daten lassen sich Profile erstelle. Wenn zwei Metakundì sich regelmässig über Nacht am gleichen Ort befinden, ist es sehr wahrscheinlich ein Paar. Personen, welche diesen Haushalt besuchen, und vor Ort einen Meta-Dienst nutzen, werden natürlich auch ins Profil aufgenommen. Wenn in einem gewissen Abstand plötzlich weitere Nutzerì im selben Haushalt auftauchen und diese wiederum am Mittag heimkommen oder halt einfach tagsüber Schule X besuchen, sind’s wohl die Kinder. Fantasieren wir ein bisschen, finden wir diverse Ideen, was sich rein aus dem Standort und dem Datum alles herauslesen lässt. Sportzentrum, Kirche, Restaurant, RAV, Bank, Ferienort. Aber eben auch Beziehungen zu anderen Menschen. Für unseren Verstand ein grössere Denkaufgabe, für einen Algorithmus ein Klacks. Die Metadaten von WhatsApp, Facebook und Instagram landen alle im gleichen Topf, angereichert durch unsere Dunstkreise auf Facebook und Instagram samt inhaltlicher Präferenzen und Tendenzen was die Profile ziemlich fein macht – aber eben nicht zwingend korrekt, sondern mehr schubladenartig. 
 
 Wenn man sich vorstellt, dass diese Profile in die falschen Hände geraten, ist das sehr beklemmend. Ob das amtliche oder kriminelle Hintergründe hätte und wie ob die Profile korrekt oder falsch sind, würde nicht wirklich eine Rolle spielen. Ich will den Teufel nicht an die Wand malen, aber zur Zeit stimmen mich die Rechtsrütschchen allerorts nicht gerade zuversichtlich. Und dass ein einzelner Mensch einfach eine ganze Plattform kaufen kann ebenso wenig.
-
 ## Zwei: Gratis
 Meta betreibt mit den Profilen Handel. Massgeschneiderte Werbung. Nicht nur auf ihren Plattformen sondern auch auf gemieteten Werbeflächen im ganzen Internet. Meta erntet also als unsere persönlichen «Emissionen» und macht Geld daraus und verteilt dieses auch eher nicht unter den Armen. Praktisch für Meta: Unsere Emissionen gehören offiziell ihnen.
 
 Was bei Twitter – heute X – zur Zeit los ist, versteh ich selbst nicht ganz. Ein ziemliches Kuddelmuddel und mir scheint, als würde Musk seine frisch erworbene Plattform bald in den Sand setzen oder durch sein Verhalten demografisch so dezimieren, dass da nur noch Publikum nach seinem Gusto ist. Wie es bei X genau aussieht mit dem Daten sammeln, weiss ich nicht. Die Nutzung von X ist aber sicher genau so wenig «gratis».
-
 ## Drei: Manipulation
 Das grosse «Gehts-noch?!» bei X, wie auch bei Facebook und Instagram, sind die manipulierten Datenflüsse. Nicht ihr bestimmt, was wichtig ist für euch, sondern Algorithmen. Ihr folgt zwar ausgewählten Kanälen, aber  deren Beiträge kommen eher «kuratiert» bis zu euch durch. Dazwischen passende Werbung. Etwas polemisch: Ihr kriegt also das zu lesen, was Musk und Mark wollen. Das ist manipulativ.
-
-# WhatsApp-Alternativen
+# Alternativen zu WhatsApp
 Sucht man Alternativen für Instant-Messaging-Dienste, ist die Auswahl begrenzt – glücklicherweise.
-
 ## Telegram, nein
 Bei Telegram steht es leider um die Verwertung unserer Metadaten nicht besser und end-zu-end-verschlüsselte Nachrichten sind da in Gruppen nicht möglich. Zudem steht Telegram schon seit Jahren in der Kritik in Sachen Verschlüsselungsqualität und Datenschutz. Aktueller Standort der Entwicklungsabteilung: Dubai. Firmensitz: unbekannt. Besitzer: Pawel Durow, Multi-Milliardär.
-
 ## Threema
 Seit 2012 und somit nach WhatsApp (2009) am längsten am Markt ist Threema der Threema GmbH aus der Schweiz. Die Plattform hat den Fokus seit Beginn auf Sicherheit und Datenschutz und ist Open Source (siehe Seite XXX). Einziges Manko: Die Desktop-Version verlang bei jedem Start wieder einen Scan des QR-Codes mit dem App. Dass die App einen einmaligen einstelligen Frankenbetrag kostet, lass ich nicht als Nachteil gelten.
-
 ## Signal.org
 Signal hat ebenfalls den Fokus auf Sicherheit und Datenschutz. Signal (2014) ist, im Gegensatz zu Threema, eine Stiftung mit Sitz in den USA und finanziert sich durch Spenden. Die Applikation ist ebenfalls Open Source läuft auf allen Geräten (iOS, Android, Mac, Windows, Linux) sehr solide und erfährt regelmässig Updates. Öffentliche Auftritte der Stiftungspräsidentin Meredith Whittaker findet ihr einige auf Youtube. 
-
 ## SimpleX.chat
 Wer es absolut privat mag, kann SimpleX ausprobieren. Kontakte können nur durch die Weitergabe eines temporären, zufälligen generierten Schlüssels gespeichert werden – per Einladungs-Link oder QR-Code. Man kann also auf seinem Handy nicht einfach sehen, wer bei SimpleX ist. Ich rate aber, die Verbindungen so zu erstellen, dass wirklich klar ist, wer einen da einen Schlüssel schickt – am besten von Angesicht zu Angesicht. Die meisten von uns mögen ob dieser Hürde schon ein wenig die Augen rollen, aber für Aktivistì und Journalistì könnte das was sein. 
-
 ## Matrix.org
-Für die Nutzung eines Messenger wie z.B. «Element», welcher auf dem föderierten ActivityPub-Protokoll läuft, ist die Schwelle nochmals etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider im Moment noch nicht empfehlen. Aber ich bin da. Username: @jwssnr:matrix.org
-
+Für die Nutzung eines Messengers wie z.B. «Element», welcher auf dem föderierten ActivityPub-Protokoll läuft, ist die Schwelle nochmals etwas höher und nach drei Jahren Verwendung im kleinen Kreis, kann ich dieses Herzblut-Projekt für Nicht-Nerds leider im Moment noch nicht empfehlen. Aber ich bin da. Username: @jwssnr:matrix.org
 ## SMS, MMS, RCS
 Es gibt ja da noch den guten alten SMS, könnte man sagen. SMS/MMS wird im Moment nur aber noch genutzt, wenn von einem Android-Handy auf ein Apple-Handy und umgekehrt Nachrichten versendet werden, oder wenn gar kein Smart-Phone beteiligt ist. Gut nein, alt ja (30 Jahre). Apple-Userì kennen den «Effekt» mit den grünen und blauen Sprechblasen. Android-Nutzerì unter sich, können mit der hauseignen Nachrichten-App «Google Chat» ebenfalls Gruppenchats nutzen, Lesebestätigungen sehen und End-zu-End-Verschlüsselung standardmässig aktiv haben. Android nutzt dazu den offenen Standard RCS – Rich Communication Service. Apple-Userì unter sich, können mit iMessage die selben Dinge tun, allerdings mit einer apple-eignen Technologie. Nicht kompatibel. Apple will nun 2024 irgendwann iMessage um RCS erweitern. Das ist schön. Was das in Sachen Datenschutz bedeuten wird, ist noch unklar. Aber auch heute ist die Situation nicht ganz durchsichtig. Was Apple mit Metadaten macht, wissen wir nicht. Sie leben ja nicht davon durch die Zurverfügungstellung von Gratisdiensten Profile für Werbung zu erstellen, aber einzulagern scheinen sie diese trotzdem. 
 
 Nicht vergessen: In den USA gibts dann noch den Patriot Act aufgrund dessen ein Dienstleister gezwungen werden kann, alles herzuzeigen was er gesammelt hat.
-
 ## Noch mehr Apps?!
-Ich will doch nicht noch eine App auf meinem Handy! Das ist kein rarer Ausruf in meinem Dunstkreis. Wenn es uns nicht egal ist, dass unsere digitale Kommunikation dazu beiträgt, dass ein paar Anstandslose mit zu viel Geld immer mehr Macht erlangen, dann kommen wir um ein paar Unbequemlichkeiten nicht herum. Löschen wir unseren WhatApp-Account, bleiben wir immer noch erreichbar, keine Angst. Ich habs ausprobiert. Und wir gewöhnen uns auch wahnsinnig schnell daran, welche Chatgruppe wo läuft und welche Kontakte wo zu finden sind. Es kann sogar helfen, wenn nicht alles im gleichen «Regal verstaut ist». 
+Ich will doch nicht noch eine App auf meinem Handy! Das ist kein rarer Ausruf in meinem Dunstkreis. Wenn es uns nicht egal ist, dass unsere digitale Kommunikation dazu beiträgt, dass ein paar Anstandslose mit zu viel Geld immer mehr Macht erlangen, dann kommen wir um ein paar Unbequemlichkeiten nicht herum. Löschen wir unseren WhatApp-Account, bleiben wir immer noch erreichbar, keine Angst. Ich habs ausprobiert. Und wir gewöhnen uns auch wahnsinnig schnell daran, welche Chatgruppe wo läuft und welche Menschen wo zu finden sind. Es kann sogar helfen, wenn nicht alles im gleichen «Regal verstaut ist». 
 
 Ein gar schlechtes Zeichen ist es, wenn es mittlerweilen Mut braucht, diesen Schritt zu tun. Doch je mehr Leute es wagen, desto einfacher wird es.
 
 ## Aber meine Feeds und Friends?!
-
 Wir verpassen auch nichts relevantes, wenn wir uns aus Facebook und Twitter ausklinken. Und mit Ausklinken meine ich wirklich, die Accounts zu löschen.
 Auch diesen Schritt habe ich persönlich gewagt, obwohl ich zu den eher aktiven Userì gehörte. Es gibt auf Facebook viele, die damit ihr Netzwerk aufrecht erhalten, was ich gut verstehe und was ja eigentlich mal der Sinn war. Aber es gibt genug Möglichkeiten, das anders zu lösen, ehrlich. 
 
@@ -86,12 +75,10 @@ Wichtig für uns: Die Feeds sind nicht algorithmusgesteuert, sondern laufen abso
 Nach dem Musk Anfang 2022 Twitter übernommen hat, eröffneten zehntausende auf Mastodon ein Konto. Heute tummeln sich mehr als 14 Mio Leute da.
 
 Erst gerade las ich, dass das World Wide Web Consortium (W3C) ihre Kommunkation von Twitter auf Mastodon verlegt. Das W3C ist seit 1993 das Gremium für die Verabschiedung von Web-Technologien. Es ist quasi Hüterà aller Technologien im World Wide Web.
-
 ## Bitte mehr!
 Rein beruflich bin ich auf diverse Informationsquellen angewiesen und ich würde mich riesig freuen, wenn gerade Veranstalter und Medienschaffende ihre Nachrichten und Ankündigungen auf Mastodon publik machen würden. Es wäre Zeit dazu. 
 
 Ein paar Quellen, denen ich persönlich auf Mastodon folge und die nichts mit meinem Handwerk zu tun haben findet ihr im Anhang – so als Inspiration.
-
 ## Was ist anders?
 Mastodon ist ein Netzwerk von sogenannten Instanzen. Diese Instanzen fühlen sich ein wenig an, wie Dörfer. Für die Landung in der Mastodon-Welt muss man sich zuerst ein Dorf aussuchen. Am idealsten eines, wo es gefällt, wo gleichgesinnte wohnen und wo einen die Regeln gefallen. Ein späterer Umzug in ein anderes Dorf samt Beiträgen ist aber machbar. 
 Es gibt vier Datenströme (Feeds), welche ich mir ansehen kann. 
@@ -110,14 +97,13 @@ Wenn man sich nicht an die Regeln im Dorf hält, kann man rausgeschmissen werden
 Technisch gesehen, sind es individuelle Server auf denen die Mastodon-Software läuft. Jede Person kann so einen Server aufsetzen und bildet somit automatisch eine Instanz im Mastodon-Netzwerk. Ich empfehle aber, eine Instanz auszuwählen, die nicht nur von einer einzelnen Person bei Vollmond gewartet wird sondern eher etwas grösseres. Auf joinmastodon.org/servers finden wir eine Liste aller Instanzen, filterbar nach Sprache und Interessen.
 
 Ich persönlich «wohne» in typo.social. Meine Username lautet @jwssnr und meine vollständige «Anschrift» deshalb @jwssnr@typo.social.
-
 ## Alternativen
-Wie sich Bluesky, das von Twitter-Gründer Jack Dorsey 2019 gestartete Projekt, entwickeln wird, bleibt unter Beobachtung. Das gilt auch für Nostr, ebenfalls von Dorsey unterstützt. Beides Systeme auf einem offenen Protokoll und dezentralisiert. Threads.net können wir nicht als Alternative hinnehmen, weil es Meta gehört – löbliche Ansätze hin oder her. Aber es tut sich gerade sehr. Das ist schön.
-## Und Instagram?
+Wie sich **Bluesky,** das von Twitter-Gründer Jack Dorsey 2019 gestartete Projekt, entwickeln wird, bleibt unter Beobachtung. Das gilt auch für **Nostr,** ebenfalls von Dorsey unterstützt. Beides Systeme auf einem offenen Protokoll und dezentralisiert. Threads.net können wir nicht als Alternative hinnehmen, weil es Meta gehört – löbliche Ansätze hin oder her. Aber es tut sich gerade sehr. Das ist schön.
+# Und Instagram?
 
-Nun, am ähnlichsten scheint mir tatsächlich **Pixelfed.social**. Das finde ich wunderbar, denn es läuft ebenfalls auf dem ActivityPup, was bedeutet, dass man sich mit seinem Mastodon-Account einloggen könnte, wenn man wollte. Die Plattform scheint mittlerweilen besser besucht und genutzt und wer wirklich «nur» Bildmaterial teilen will und auf «Stories» verzichten kann, wird sich da viel wohler fühlen als auf Instagram.
+Nun, am ähnlichsten scheint mir tatsächlich **Pixelfed.social**. Das finde ich wunderbar, denn es läuft ebenfalls auf dem ActivityPup, was bedeutet, dass man sich mit seinem Mastodon-Account einloggen könnte, wenn man wollte. Die Plattform scheint mittlerweilen besser besucht und genutzt und wer wirklich «nur» Bildmaterial teilen will und vorerst auf «Stories» verzichten kann, wird sich da viel wohler fühlen als auf Instagram – werbefrei und nicht per Algorithmus kuratiert. 
 
-**Vero.co** wurde eine Zeit lang ziemlich gehyped, aber es wird gemunkelt, dass einige Insta-Influenzerì dafür angeheuert wurden. Es macht soweit einen guten Eindruck und es wäre auch okay, dafür etwas zu bezahlen, aber es kann viel mehr als nur Bilder teilen und das macht es sehr unübersichtlich. Nebst dem haben wir es hier wieder mit einem Datensilo, also einem isolierten Dienst, zu tun haben. Ich kann es weder empfehlen, noch davon abraten. Wollte es nur nicht auslassen. 
+**Vero.co** wurde eine Zeit lang ziemlich gehyped, aber es wird gemunkelt, dass einige Insta-Influenzerì dafür angeheuert wurden. Es macht soweit einen guten Eindruck und es wäre auch okay, dafür etwas zu bezahlen, aber es kann viel mehr als nur Bilder teilen und das macht es sehr unübersichtlich. Nebst dem haben wir es hier wieder mit einem Datensilo, also mit einem isolierten Dienst zu tun. Ich kann es weder empfehlen, noch davon abraten. Wollte es nur nicht auslassen. 
 
 # Zurück zum Thema Fichen füttern
 
@@ -128,15 +114,12 @@ Weil wir täglich – grösstenteils sogar unbewusst – mehr Google-Dienste als
 **Trotzdem: die Gründe zwei und drei zum Schuh für Mark und Musk gelten auch für Google – trotz mangelndem Personenkult. Ich muss also nicht nochmals alles wiederholen.**
 
 Ich weiss, viele Google-Dienste sind wirklich gut und sobald mehrere Leute einen davon gemeinsam nutzen, wird ein Umsteigen auf einen anderen Zug recht aufwändig. Persönlich tu ich mich mit der Vorstellung schwer, auf YouTube verzichten zu müssen. Ich bewege mich da täglich in meiner Blase und schätze genau diese Eigenschaft. Vieles von dem, was ich mir an technischem Know-how angeeigne, passiert über YouTube. Als Ausgleich versuche ich, meinen restlichen digitalen Alltag soweit es geht zu entgooglen und entäppeln.
-
 ## Es soll nicht sein, dass alles Digitale von den Launen einer Hand voll weltfremder Multimillionäre abhängig ist. 
 Machen wir es, wie im Analogen: Unterstützen wir mehr die kleinen und lokalen. Im Vergleich zum Analogen ist der Preis nur selten ein Argument. Meist wäre es nur ein Verlassen der eigenen Komfortzone. (Wenn wir grad schon dabei sind: LinkedIn gehört im Fall Microsoft.)
-
 ## Alternative Suchmaschinen
 Googles Suchmaschine nutze ich schon lange nicht mehr. Lange Zeit mindestens nicht direkt, weil ich über DuckDuckGo «googelte». Diese Suchmaschine annonymisiert die Suchanfragen, liefert aber trotzdem Google-Ergebnisse, was wiederum Google hilft. Man findet DuckDuckGo übrigens in jedem Browser in den Einstellungen zur Suchmaschine. Standardmässig ist Google überall voreingestellt, weil Google die andern Browser-Hersteller dafür bezahlt.
 
 An privaten Suchmaschinen, welche wie DuckDuckGo ebenfalls auf Indexe von anderen Suchmaschinen zurückgreifen, gibt es noch mehr. Startpage.com und MetagGer.de zum Beispiel. Und dann gibt es auch solche, die einen echten eigenen Index haben. Mojeek.com ist eine davon. Und Kagi.com, welche ich seit einiger Zeit auf all meinen Geräten nutze. Keine Werbung, keine Suchanfragen und andere Daten, welche mit meinem Konto verknüpft sind, diverse Extrafunktionen und auch die Option ganze Websites komplett zu blockieren. Das Verrückte dabei: Ich zahle dafür 10 Stutz pro Monat. 
-
 ## Weitere Google-Alternativen
 Da gibt es eigentlich für alles eine Lösung. Viele davon sind sogar schon länger da als Google und Google hats dann einfach nachgemacht. Sogar für YouTube gäbe es das mastodon-verwandte PeerTube, was ich sehr schätze, um sorglos Videos zu veröffentlichen, welche dann ohne Werbung und ohne Tracking in eine Website eingebunden werden können. Aber so fürs Stöbern und Recherchieren ist die Menge an Inhalten einfach zu dünn, denn auf PeerTube lässt sich mit Videos kein Geld verdienen.
 
@@ -214,15 +197,16 @@ Es gibt aber Firmen, die sich auf den reinen Datenspeicher und Datenaustausch sp
 
 Es ist übrigens total in Ordnung alles aufzusplitten. Speicher bei Tresorit, Mail bei Proton, Adressen bei Posteo, Kalender bei Fruux. Oder andersrum, oder so. Beispielsweise 
 
-## Befreiungskampf 
-
-Nachdem man sich durchgekämpft hat, fühlt man sich etwas entfesselt. Für mich als Apple-Desktop-User bietet sich so die Möglichkeit, bei der nächsten Notwendigkeit, vielleicht ein alternatives, google- und apple-freies Smartphone zu kaufen und etwas wie murena.com zu nutzen. 
+Nachdem man sich durchgekämpft hat, fühlt man sich etwas entfesselt. Für mich als Apple-Desktop-User bietet sich so die Möglichkeit, bei der nächsten Notwendigkeit, vielleicht ein **alternatives, google- und apple-freies Smartphone** zu kaufen und etwas wie murena.com zu nutzen. 
 
 # Spam-Prophylaxe
 
 Firefox Relay und SimpleLogin sind zwei Dienste für virtuelle E-Mail-Adressen, Pseudonyme quasi. Das bedeutet, man kann sich direkt im Browser, dort wo man sie braucht, beliebige Adressen generieren lassen, welche für ebenso beliebige Ort im Web genutzt werden können. Klassische Fälle: Newsletter oder Shops, wo man nur einmal was kaufen will. E-Mails an solche Adressen laufen dann immer zuerst über den Dienst und werden dann an die reale Adresse weitergeleitet. Wenn wir nun auf einer dieser Adressen zu viel Müll reinkriegen, können wir sie einfach löschen oder ändern.
 
 Beide Dienste funktionieren sehr gut. Vorteil bei Firefox Relay: Die E-Mails werden vor der Weiterleitung gleich aller Tracker entledigt und die Oberfläche gibts auch in Deutsch. Dafür ist SimpleLogin etwas spezialisierter und kostet auch etwas mehr. $ 30.– statt 12.– pro Jahr bei Firefox Relay. Um die jeweils kostenlosen Preispläne kommt man eh nicht herum, weil die von der Menge an Adressen (5 bzw. 10) nur zum Testen nützlich sind.
+
+## Gratis und Spam
+Spam wird uns noch eine Weile beschäftigen. Ûberall. Denn solange der Versand oder das Anschlagen von Nachrichten kostenlos ist, wird es Bots geben, die tausende von Nachrichten in einem Augenblick versenden, bleibt dieses «Geschäft» lukrativ. 
 
 # Passwörter
 
@@ -240,11 +224,11 @@ Eine kleine Empfehlung wurde mir noch zugetragen: Wenn man all seine Zugangsdate
 
 # Zum Schluss
 
-Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Geschichte unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer, die deutlich mächtiger sind als PCs vor 25 Jahren in unseren Hosentaschen rumtragen – und gelegentlich im Klo versenken. Und trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
+Es gibt da eine rund 25 Jahre alte Legende, nach welcher Apple ihre Rechner mit G3-Prozessoren in China nicht verkauft durfte, weil sie von der Rechenleistung her unter militärisches Equipment fielen. Damals glaubten wir das. Wie auch immer, diese Geschichte unterstreicht die Absurdität mit der wir heute kleine Kombi-Computer, die deutlich mächtiger sind als PCs vor 25 Jahren in unseren Hosentaschen rumtragen – und gelegentlich im Klo versenken. Und trotzdem ist für Viele ein Computer, egal ob ein «richtiger» oder ein Smartphone, immer noch eine unheimliche Zaubermaschine zu der man eine Hassliebe entwickelt hat. 
 
-Ich habe Verständnis dafür, dass es einen ein wenig gleichgültig ist, wie die Elektronik im eigenen Staubsauger funktioniert. Und ich habe Verständnis dafür, dass ein Computer-Betriebssystem und all die darauf gepackten Apps und Applikationen und dann noch das ganze Internet äusserst abstrakte und für «Quereinsteigende» schwer zugängliche Gebilde sind. 
+Ich habe Verständnis dafür, dass es einen ein wenig gleichgültig ist, wie die Elektronik im eigenen Staubsauger funktioniert. Und ich habe Verständnis dafür, dass ein Computer-Betriebssystem und all die darauf gepackten Apps und Applikationen und dann noch das ganze Internet äusserst abstrakte und für «Quereinsteigende» schwer zugängliche Gebilde sind. Aber ich möchte alle motivieren, sich mit all dem so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon. Und fertig wird man auch nicht. Das wurde mir in den Stunden, welche ich brauchte, all mein vermeintliches Wissen zu formulieren und zu überprüfen wieder bewusst. Und einfacher auch nicht. 
 
-Aber ich möchte alle motivieren, sich mit all dem so ernsthaft zu befassen, wie diese Dinge eben in unsere Alltage eingedrungen sind. Man muss und kann nicht alles auf einmal verstehen. Ein bisschen Zeit braucht das schon. Und fertig wird man auch nicht. Das wurde mir in den Stunden, welche ich brauchte, all mein vermeintliches Wissen zu formulieren und zu überprüfen wieder bewusst. Und einfacher auch nicht. 
+((Und nichts davon wird so lange bleiben. Beweglich bleiben.))
 
 ☀︎
 Jürgen
